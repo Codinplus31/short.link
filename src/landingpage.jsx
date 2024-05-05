@@ -16,7 +16,7 @@ function Lands(){
       if(isLoggedin === true){
         if(typeof id !== 'undefined' &&  id !== null){
 
-          fetch('http://localhost:8001/all?id='+id).then((e)=>{
+          fetch('https://short-link-backend-0qdy.onrender.com/all?id='+id).then((e)=>{
         return e.json()
       }).then((e)=>{
           setdata(e)
@@ -42,7 +42,7 @@ function Lands(){
           }} className="w-[90%] h-[2rem] p-2 sm:w-[22rem] border-0 outline-0 shadow-blur rounded hover:shadow-greenblur focus:shadow-greenblur"/>
             <button onClick={()=>{
               setloc(localStorage.getItem('links'))
-                fetch('http://localhost:8001/cut',{
+                fetch('https://short-link-backend-0qdy.onrender.com/cut',{
                     method: 'POST',
         headers: {
           'Content-Type': 'application/json',
