@@ -42,7 +42,7 @@ return (<div className="w-full h-[24rem] flex  items-center justify-center">
 if(data.email !=='' && data.password !=='' && data.password  === data.cpassword && data.password.length
      > 6 && data.name !==""){
     console.log('true')
-    fetch(`/reg`, {
+    fetch(`https://short-link-backend-0qdy.onrender.com/reg`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
