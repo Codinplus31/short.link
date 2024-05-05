@@ -27,8 +27,7 @@ return (<div className="w-full h-[24rem] flex  items-center justify-center">
     if( data.password === '' || data.password.length
      < 6 || data.password !== data.cpassword ){
         e.target[2].style.border = '1px solid red';
-      data.password.length
-     < 6  e.target[3].style.border = '1px solid red';
+       e.target[3].style.border = '1px solid red';
 
     }else{
         e.target[2].style.border = '0';
