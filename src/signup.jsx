@@ -25,9 +25,10 @@ return (<div className="w-full h-[24rem] flex  items-center justify-center">
 
     }
     if( data.password === '' || data.password.length
-     < 8 || data.password !== data.cpassword ){
+     < 6 || data.password !== data.cpassword ){
         e.target[2].style.border = '1px solid red';
-        e.target[3].style.border = '1px solid red';
+      data.password.length
+     < 6  e.target[3].style.border = '1px solid red';
 
     }else{
         e.target[2].style.border = '0';
@@ -38,10 +39,11 @@ return (<div className="w-full h-[24rem] flex  items-center justify-center">
     //     < 8 && data.email !=='' && data.password !=='' && data.name !==""){
     //         alert('password must 8 digit and more')
     //     }
-if(data.email !=='' && data.password !=='' && data.password  === data.cpassword && data.name !==""){
+if(data.email !=='' && data.password !=='' && data.password  === data.cpassword && data.password.length
+     > 6 && data.name !==""){
     console.log('true')
-    fetch(`http://localhost:8001/reg`, {
-        method: 'Post',
+    fetch(`/reg`, {
+        method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
