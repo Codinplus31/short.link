@@ -44,12 +44,12 @@ function Header(){
         }} className='pl-[30%] min-mobile:pl-[12%]'>Short.link</span></div>):""}
     
       <div className="headertools justify-end"> 
-        <ul className='flex gap-4 mx-[auto]'>
+        {/* <ul className='flex gap-4 mx-[auto]'>
           <li >Home</li>
           <li>Contact</li>
           <li>About</li>
           
-        </ul>
+        </ul>*/}
         <div className='mr-[4%]'>
           <Link to={'signup'} className='mr-4 bg-green-600 text-white py-2 px-3 rounded-full'>SignUp</Link>
           <Link to={'login'}>Login</Link>
