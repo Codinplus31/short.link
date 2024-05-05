@@ -33,7 +33,7 @@ function Login(){
 }
 
 if(data.email !=='' && data.password !==''){
-    fetch(`http://localhost:8001/login`, {
+    fetch(`https://short-link-backend-0qdy.onrender.com/login`, {
         method: 'post',
         headers: {
           'Content-Type': 'application/json',
@@ -84,7 +84,7 @@ if(data.email !=='' && data.password !==''){
             console.log(da,'da');
             if(JSON.parse(localStorage.getItem('links')).length > 0){
             JSON.parse(localStorage.getItem('links')).map(e=>{
-              fetch(`http://localhost:8001/useredit?user=${da[0].id}&userlink=${e.url_link}`)
+              fetch(`https://short-link-backend-0qdy.onrender.com/useredit?user=${da[0].id}&userlink=${e.url_link}`)
               .then(e=> e.json()).then(e=>{
                 let g = [...JSON.parse(localStorage.getItem('links'))];
                 console.log(e)
