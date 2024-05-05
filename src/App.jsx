@@ -79,7 +79,7 @@ function App() {
   let location = useLocation();
 console.log(location)
 useEffect(()=>{
-  fetch('http://localhost:8001/check?id='+location.pathname.split('/').join(''))
+  fetch('https://short-link-backend-0qdy.onrender.com/check?id='+location.pathname.split('/').join(''))
   .then(e=>{
     return e.json();
   })
