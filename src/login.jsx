@@ -41,17 +41,17 @@ if(data.email !=='' && data.password !==''){
         body: JSON.stringify(data),
       })
         .then((response) => {
-          if (response.status === 200) {
+          //if (response.status === 200) {
             // Handle success
             console.log(response);
       
           
           return response.json();
-          } else {
+        //  } else {
             // Handle error
-            console.log(response);
+        //    console.log(response);
           
-          }
+       //   }
           
         }).then(da=>{
             console.log(da)
