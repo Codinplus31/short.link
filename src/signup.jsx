@@ -62,12 +62,13 @@ if(data.email !=='' && data.password !=='' && data.password  === data.cpassword 
       //    }
           
         }).then(da=> {
-    console.log(da)
+    //console.log(da)
           if(da?.hasOwnProperty("error")){
             alert(da.error);
-console.log(da.error)
+//console.log(da.error)
           }else{
-            console.log(da);
+          //  console.log(da);
+              navigate("/login")
           }
         })
         .catch((error) => {
