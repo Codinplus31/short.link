@@ -66,7 +66,7 @@ if(data.email !=='' && data.password !==''){
             if(loc  === null || typeof loc  === 'undefined'){
 
               // if(!da.hasOwnProperty('code')){
-                localStorage.setItem('shorlink_user',da[1].token)
+                localStorage.setItem('shorlink_user',da[0].token)
                 console.log(true)
                 setloc(localStorage.getItem('shorlink_user'))
 
