@@ -95,7 +95,53 @@ function Lands(){
                     // }
                   })
         }else{
+fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
+                    method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({url: inp,id: id}),
+                }).then((response) => {
+                    if (response.status === 200) {
+                      // Handle success
+                      console.log(response);
+                
+                    
+                    return response.json();
+                    } else {
+                      // Handle error
+                      console.log(response);
+                    
+                    }
+                    
+                  }).then(da=>{
+                    // if(da[0]?.error){
+                      console.log(da.hasOwnProperty('code'))
+                    //   alert(da[0].error);
+                    if(loc  === null || typeof loc  === 'undefined'){
 
+                      if(!da.hasOwnProperty('code')){
+                        localStorage.setItem('links',JSON.stringify([da]))
+                        console.log(true)
+                        setloc(localStorage.getItem('links'))
+
+                      }
+
+                    }else{
+                      if(!da.hasOwnProperty('code')){                      
+                      console.log(false)
+                      let dlinks = [...JSON.parse(loc)];
+                      dlinks.push(da)
+                      localStorage.setItem('links',JSON.stringify(dlinks))
+              setloc(localStorage.getItem('links'))
+
+                    }
+                    }
+                    
+                    // }else{
+                      console.log(da);
+                    // }
+                  })
         }
             }}  className="bg-green-600 p-2 text-white rounded w-max">Generate ShortLink</button>
         </div>
