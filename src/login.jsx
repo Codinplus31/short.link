@@ -99,6 +99,7 @@ setLogin(localStorage.getItem('shorlink_user')  !== null?true:false )
               })
             })
           }
+              navigate("/")
         }
         })
         .catch((error) => {
