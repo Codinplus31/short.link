@@ -62,8 +62,8 @@ if(data.email !=='' && data.password !=='' && data.password  === data.cpassword 
           }
           
         }).then(da=>{
-          if(da[0]?.error){
-            alert(da[0].error);
+          if(da?.error){
+            alert(da.error);
 
           }else{
             console.log(da);
