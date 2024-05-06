@@ -54,7 +54,10 @@ function Header(){
           <Link to={'signup'} className='mr-4 bg-green-600 text-white py-2 px-3 rounded-full'>SignUp</Link>
           <Link to={'login'}>Login</Link>
         </div> : <div className='mr-[4%]'>
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" onClick={()=>{
+    localStorage.removeItem('shorlink_user')
+                 
+        }} className="w-6 h-6">
   <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 9V5.25A2.25 2.25 0 0 1 10.5 3h6a2.25 2.25 0 0 1 2.25 2.25v13.5A2.25 2.25 0 0 1 16.5 21h-6a2.25 2.25 0 0 1-2.25-2.25V15m-3 0-3-3m0 0 3-3m-3 3H15" />
 </svg>
         </div>}
