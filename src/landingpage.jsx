@@ -4,6 +4,7 @@ import {Loading} from "./App.jsx";
 
 function Lands(){
     let [inp,setinp] = useState();
+    let [retry,setretry] = useState(0);
     let [data,setdata] = useState(null);
     let [loc,setloc] = useState(localStorage.getItem('links'));
     let navigate = useNavigate();
@@ -115,8 +116,9 @@ fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
                     }
                     
                   }).then(da=>{
-    setid(localStorage.getItem('shorlink_user'))
-                    // if(da[0]?.error){
+   // setid(localStorage.getItem('shorlink_user'))
+              setretry((prev)=> prev + 1);     
+    // if(da[0]?.error){
                       console.log(da)
                     //   alert(da[0].error);
                    // if(loc  === null || typeof loc  === 'undefined'){
