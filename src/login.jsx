@@ -66,7 +66,7 @@ if(data.email !=='' && data.password !==''){
             if(loc  === null || typeof loc  === 'undefined'){
 
               // if(!da.hasOwnProperty('code')){
-                localStorage.setItem('shorlink_user',da[0].id)
+                localStorage.setItem('shorlink_user',da[1].token)
                 console.log(true)
                 setloc(localStorage.getItem('shorlink_user'))
 
@@ -74,7 +74,7 @@ if(data.email !=='' && data.password !==''){
 
             }else{
               let dlinks = [...JSON.parse(loc)];
-              dlinks.push(da[0].id)
+              dlinks.push(da[0].token)
               localStorage.setItem('shorlink_user',JSON.stringify(dlinks))
       setloc(localStorage.getItem('shorlink_user'))
 
