@@ -71,7 +71,7 @@ if(data.email !=='' && data.password !==''){
                 setloc(localStorage.getItem('shorlink_user'))
 setLogin(localStorage.getItem('shorlink_user')  !== null?true:false )
               // }
-
+navigate("/")
             }else{
               let dlinks = [...JSON.parse(loc)];
               dlinks.push(da[0].token)
