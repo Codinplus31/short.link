@@ -55,8 +55,8 @@ if(data.email !=='' && data.password !==''){
           
         }).then(da=>{
             console.log(da)
-          if(da.length == 0){
-            alert('wrong password or email');
+          if(da.hasOwnProperty("error")){
+            alert(da.error);
             
           }else{
             setid(da[0].id)
