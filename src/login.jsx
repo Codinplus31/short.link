@@ -60,7 +60,7 @@ if(data.email !=='' && data.password !==''){
             
           }else{
             setid(da[0].id)
-            setLogin(localStorage.getItem('shorlink_user') !== null?true:false )
+           // setLogin(localStorage.getItem('shorlink_user') !== null?true:false )
             
 
             if(loc  === null || typeof loc  === 'undefined'){
@@ -69,7 +69,7 @@ if(data.email !=='' && data.password !==''){
                 localStorage.setItem('shorlink_user',da[0].token)
                 console.log(true)
                 setloc(localStorage.getItem('shorlink_user'))
-
+setLogin(localStorage.getItem('shorlink_user')
               // }
 
             }else{
@@ -77,7 +77,7 @@ if(data.email !=='' && data.password !==''){
               dlinks.push(da[0].token)
               localStorage.setItem('shorlink_user',JSON.stringify(dlinks))
       setloc(localStorage.getItem('shorlink_user'))
-
+setLogin(localStorage.getItem('shorlink_user')
             }
 
 
