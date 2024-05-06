@@ -24,12 +24,13 @@ function Lands(){
           }).then((e)=>{
         return e.json()
       }).then((e)=>{
+              e.reverse()
           setdata(e)
         })
         }
 
       }else  {
-        setdata(JSON.parse(localStorage.getItem('links')))
+        setdata(JSON.parse(localStorage.getItem('links')).reverse())
         console.log(localStorage.getItem('links'),)
       }
 
