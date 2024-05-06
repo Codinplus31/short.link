@@ -115,10 +115,11 @@ fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
                     }
                     
                   }).then(da=>{
+    setloc(localStorage.getItem('links'))
                     // if(da[0]?.error){
                       console.log(da)
                     //   alert(da[0].error);
-                    if(loc  === null || typeof loc  === 'undefined'){
+                   // if(loc  === null || typeof loc  === 'undefined'){
 
                    /*   if(!da.hasOwnProperty('code')){
                         localStorage.setItem('links',JSON.stringify([da]))
@@ -127,7 +128,7 @@ fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
 
                       }*/
 
-                    }else{
+                 //   }else{
                       /*if(!da.hasOwnProperty('code')){                      
                       console.log(false)
                       let dlinks = [...JSON.parse(loc)];
@@ -136,7 +137,7 @@ fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
               setloc(localStorage.getItem('links'))
 
                     }*/
-                    }
+                   // }
                     
                     // }else{
                       console.log(da);
