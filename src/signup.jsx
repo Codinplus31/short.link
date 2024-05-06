@@ -72,7 +72,7 @@ console.log(da.error)
         })
         .catch((error) => {
           // Handle network or other errors
-          
+          console.log(error)
       
         });
 }
