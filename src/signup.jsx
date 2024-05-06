@@ -62,7 +62,7 @@ if(data.email !=='' && data.password !=='' && data.password  === data.cpassword 
           }
           
         }).then(da=>{
-          if(da?.error){
+          if(da?.hasOwnProperty("error")){
             alert(da.error);
 
           }else{
