@@ -116,26 +116,26 @@ fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
                     
                   }).then(da=>{
                     // if(da[0]?.error){
-                      console.log(da.hasOwnProperty('code'))
+                      console.log(da)
                     //   alert(da[0].error);
                     if(loc  === null || typeof loc  === 'undefined'){
 
-                      if(!da.hasOwnProperty('code')){
+                   /*   if(!da.hasOwnProperty('code')){
                         localStorage.setItem('links',JSON.stringify([da]))
                         console.log(true)
                         setloc(localStorage.getItem('links'))
 
-                      }
+                      }*/
 
                     }else{
-                      if(!da.hasOwnProperty('code')){                      
+                      /*if(!da.hasOwnProperty('code')){                      
                       console.log(false)
                       let dlinks = [...JSON.parse(loc)];
                       dlinks.push(da)
                       localStorage.setItem('links',JSON.stringify(dlinks))
               setloc(localStorage.getItem('links'))
 
-                    }
+                    }*/
                     }
                     
                     // }else{
