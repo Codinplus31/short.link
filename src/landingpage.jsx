@@ -115,7 +115,7 @@ fetch('https://short-link-backend-0qdy.onrender.com/usercut',{
                     }
                     
                   }).then(da=>{
-    setloc(localStorage.getItem('links'))
+    setid(localStorage.getItem('shorlink_user'))
                     // if(da[0]?.error){
                       console.log(da)
                     //   alert(da[0].error);
