@@ -34,7 +34,7 @@ function Lands(){
       }
 
 
-    },[loc,isLoggedin,id])
+    },[loc,isLoggedin,id, retry])
     return (<div className="w-[100%] h-max">
         <div className="grid justify-items-center gap-4  content-center h-[28rem]">
             <h1 className="text-[2rem] sm:text-[3.7rem]  md:text-[4.6rem] w-[100%] text-center">GENERATE SHORT LINKS <br/>
