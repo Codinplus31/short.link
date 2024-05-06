@@ -14,11 +14,11 @@ function Lands(){
       setLogin(localStorage.getItem('shorlink_user') !== null?true:false )
       console.log(isLoggedin)
       if(isLoggedin === true){
-        if(typeof id !== 'undefined' &&  id !== null){
+        if(typeof localStorage.getItem('shorlink_user') !== 'undefined' &&  localStorage.getItem('shorlink_user') !== null){
 
           fetch('https://short-link-backend-0qdy.onrender.com/all',{
           header: {
-              'Authorization':`Bearer ${id}`
+              `Authorization`:`Bearer ${localStorage.getItem('shorlink_user')}`
           }
           }).then((e)=>{
         return e.json()
