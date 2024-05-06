@@ -61,7 +61,8 @@ if(data.email !=='' && data.password !=='' && data.password  === data.cpassword 
           
           }
           
-        }).then(da=>{
+        }).then(da=> {
+    console.log(da)
           if(da?.hasOwnProperty("error")){
             alert(da.error);
 console.log(da.error)
