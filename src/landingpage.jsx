@@ -46,6 +46,7 @@ function Lands(){
           }} className="w-[90%] h-[2rem] p-2 sm:w-[22rem] border-0 outline-0 shadow-blur rounded hover:shadow-greenblur focus:shadow-greenblur"/>
             <button onClick={()=>{
               setloc(localStorage.getItem('links'))
+        if(!isLoggedin){
                 fetch('https://short-link-backend-0qdy.onrender.com/cut',{
                     method: 'POST',
         headers: {
@@ -93,6 +94,9 @@ function Lands(){
                       console.log(da);
                     // }
                   })
+        }else{
+
+        }
             }}  className="bg-green-600 p-2 text-white rounded w-max">Generate ShortLink</button>
         </div>
     <div className="w-full h-max flex items-center flex-col">
