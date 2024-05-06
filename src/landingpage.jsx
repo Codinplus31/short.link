@@ -18,7 +18,7 @@ function Lands(){
 
           fetch('https://short-link-backend-0qdy.onrender.com/all',{
           header: {
-              'Authorization':'Bearer ' + id
+              'Authorization':`Bearer ${id}`
           }
           }).then((e)=>{
         return e.json()
