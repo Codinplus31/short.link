@@ -50,7 +50,7 @@ function Header(){
           <li>About</li>
           
         </ul>*/}
-        {isLoggedin ? <div className='mr-[4%]'>
+        {!isLoggedin ? <div className='mr-[4%]'>
           <Link to={'signup'} className='mr-4 bg-green-600 text-white py-2 px-3 rounded-full'>SignUp</Link>
           <Link to={'login'}>Login</Link>
         </div> : <div className='mr-[4%]'>
