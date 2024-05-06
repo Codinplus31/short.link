@@ -18,7 +18,7 @@ function Lands(){
 
           fetch('https://short-link-backend-0qdy.onrender.com/all',{
           header: {
-              `Authorization`:`Bearer ${localStorage.getItem('shorlink_user')}`
+              'Authorization':`Bearer ${localStorage.getItem('shorlink_user')}`
           }
           }).then((e)=>{
         return e.json()
