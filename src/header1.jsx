@@ -41,7 +41,7 @@ function Header(){
     return (<div className="header">
         {!isMobile || searchdisplay?(<div className='w-[15.3%]  min-w-[189px] min-mobile:w-max min-tablet:min-w-max'><span  onClick={()=> {
           navigate('/')
-        }} className='pl-[30%] min-mobile:pl-[12%]'>Short.link</span></div>):""}
+        }} className='pl-[30%] min-mobile:pl-[12%]'>Shorter.links</span></div>):""}
     
       <div className="headertools justify-end"> 
         {/* <ul className='flex gap-4 mx-[auto]'>
