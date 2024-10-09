@@ -1,0 +1,2855 @@
+[
+    
+    {
+        "school": "Abubakar Tafawa Balewa University, Bauchi",
+        "university": "Abubakar Tafawa Balewa University, Bauchi",
+        "vice chancellor": "Professor M A Abdulazeez",
+        "website": "https://www.atbu.edu.ng",
+        "started": "1948"
+    },
+    {
+        "school": "Ahmadu Bello University, Zaria",
+        "university": "Ahmadu Bello University, Zaria",
+        "vice chancellor": "Professor Kabir Bala",
+        "website": "https://www.abu.edu.ng",
+        "started": "1960"
+    },
+    {
+        "school": "Bayero University, Kano",
+        "university": "Bayero University, Kano",
+        "vice chancellor": "Professor Sagir Abbas",
+        "website": "https://www.buk.edu.ng",
+        "started": "1962"
+    },
+    {
+        "school": "Federal University Gashua, Yobe",
+        "university": "Federal University Gashua, Yobe",
+        "vice chancellor": "Prof. Maimuna Waziri",
+        "website": "https://www.fugashua.edu.ng",
+        "started": "1962"
+    },
+    {
+        "school": "Federal University of Petroleum Resources, Effurun",
+        "university": "Federal University of Petroleum Resources, Effurun",
+        "vice chancellor": "Prof. Akporure Rim-Rukeh",
+        "website": "https://www.fupre.edu.ng",
+        "started": "1962"
+    },
+    {
+        "school": "Federal University of Technology, Akure",
+        "university": "Federal University of Technology, Akure",
+        "vice chancellor": "Prof. Adenike Oladiji",
+        "website": "https://www.futa.edu.ng",
+        "started": "1970"
+    },
+    {
+        "school": "Federal University of Technology, Minna",
+        "university": "Federal University of Technology, Minna",
+        "vice chancellor": "Professor Faruk Adamu Kuta",
+        "website": "https://www.futminna.edu.ng",
+        "started": "1975"
+    },
+    {
+        "school": "Federal University of Technology, Owerri",
+        "university": "Federal University of Technology, Owerri",
+        "vice chancellor": "Prof. (Mrs) Nnenna Nnannaya Oti",
+        "website": "https://www.futo.edu.ng",
+        "started": "1975"
+    },
+    {
+        "school": "Federal University, Dutse, Jigawa State",
+        "university": "Federal University, Dutse, Jigawa State",
+        "vice chancellor": "Professor Abdulkarim Muhammad",
+        "website": "https://www.fud.edu.ng/",
+        "started": "1975"
+    },
+    {
+        "school": "Federal University, Dutsin-Ma, Katsina",
+        "university": "Federal University, Dutsin-Ma, Katsina",
+        "vice chancellor": "Professor Armaya'u Hamisu",
+        "website": "https://www.fudutsinma.edu.ng",
+        "started": "1975"
+    },
+    {
+        "school": "Federal University, Kashere, Gombe State",
+        "university": "Federal University, Kashere, Gombe State",
+        "vice chancellor": "Prof. Umaru A Pate",
+        "website": "https://www.fukashere.edu.ng",
+        "started": "1975"
+    },
+    {
+        "school": "Federal University, Lafia, Nasarawa State",
+        "university": "Federal University, Lafia, Nasarawa State",
+        "vice chancellor": "Professor Sheju Adbul Rahman",
+        "website": "https://www.fulafia.edu.ng",
+        "started": "1975"
+    },
+    {
+        "school": "Federal University, Lokoja, Kogi State",
+        "university": "Federal University, Lokoja, Kogi State",
+        "vice chancellor": "Professor Olayemi Akinwunmi",
+        "website": "https://www.fulokoja.edu.ng",
+        "started": "1975"
+    },
+    {
+        "school": "Alex Ekwueme University, Ndufu-Alike, Ebonyi State",
+        "university": "Alex Ekwueme University, Ndufu-Alike, Ebonyi State",
+        "vice chancellor": "Professor Sunday Oge Egom",
+        "website": "https://www.funai.edu.ng",
+        "started": "1980"
+    },
+    {
+        "school": "Federal University, Otuoke, Bayelsa",
+        "university": "Federal University, Otuoke, Bayelsa",
+        "vice chancellor": "Professor Teddy Charles Adias",
+        "website": "https://www.fuotuoke.edu.ng/",
+        "started": "1981"
+    },
+    {
+        "school": "Federal University, Oye-Ekiti, Ekiti State",
+        "university": "Federal University, Oye-Ekiti, Ekiti State",
+        "vice chancellor": "Prof. Abayomi Sunday Fasina",
+        "website": "https://www.fuoye.edu.ng/",
+        "started": "1981"
+    },
+    {
+        "school": "Federal University, Wukari, Taraba State",
+        "university": "Federal University, Wukari, Taraba State",
+        "vice chancellor": "Professor Jude Sammani Rabo",
+        "website": "https://www.fuwukari.edu.ng/",
+        "started": "1982"
+    },
+    {
+        "school": "Federal University, Birnin Kebbi",
+        "university": "Federal University, Birnin Kebbi",
+        "vice chancellor": "Prof. Muhammad Zaiyan Umar",
+        "website": "https://www.fubk.edu.ng",
+        "started": "1985"
+    },
+    {
+        "school": "Federal University, Gusau Zamfara",
+        "university": "Federal University, Gusau Zamfara",
+        "vice chancellor": "Prof. Muazu Abubakar Gusau",
+        "website": "https://www.fugusau.edu.ng",
+        "started": "1988"
+    },
+    {
+        "school": "Michael Okpara University of Agricultural Umudike",
+        "university": "Michael Okpara University of Agricultural Umudike",
+        "vice chancellor": "Professor Maduebibisi Ofo Iwe",
+        "website": "https://www.mouau.edu.ng",
+        "started": "1988"
+    },
+    {
+        "school": "Modibbo Adama University of Technology, Yola",
+        "university": "Modibbo Adama University of Technology, Yola",
+        "vice chancellor": "Professor Abdullahi Liman Tukur",
+        "website": "https://www.mautech.edu.ng",
+        "started": "1988"
+    },
+    {
+        "school": "National Open University of Nigeria, Abuja",
+        "university": "National Open University of Nigeria, Abuja",
+        "vice chancellor": "Professor Olufemi Peters",
+        "website": "https://www.nou.edu.ng",
+        "started": "1988"
+    },
+    {
+        "school": "Nigeria Police Academy Wudil",
+        "university": "Nigeria Police Academy Wudil",
+        "vice chancellor": "Professor Zana Mohammed Ibrahim",
+        "website": "https://polac.edu.ng/",
+        "started": "1991"
+    },
+    {
+        "school": "Nigerian Defence Academy Kaduna",
+        "university": "Nigerian Defence Academy Kaduna",
+        "vice chancellor": "Professor Isah Garba (Provost)",
+        "website": "https://www.nda.edu.ng",
+        "started": "1992"
+    },
+    {
+        "school": "Nnamdi Azikiwe University, Awka",
+        "university": "Nnamdi Azikiwe University, Awka",
+        "vice chancellor": "Professor Charles Esimone",
+        "website": "https://www.unizik.edu.ng",
+        "started": "1992"
+    },
+    {
+        "school": "Obafemi Awolowo University,Ile-Ife",
+        "university": "Obafemi Awolowo University,Ile-Ife",
+        "vice chancellor": "Professor Adebayo Simeon Bamire",
+        "website": "https://www.oauife.edu.ng",
+        "started": "2002"
+    },
+    {
+        "school": "University of Abuja, Gwagwalada",
+        "university": "University of Abuja, Gwagwalada",
+        "vice chancellor": "Professor Abdul-Rasheed Na' Allah",
+        "website": "https://www.uniabuja.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Federal University of Agriculture, Abeokuta",
+        "university": "Federal University of Agriculture, Abeokuta",
+        "vice chancellor": "Professor Felix Kolawole Salako",
+        "website": "https://www.unaab.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "Joseph Sarwuan Tarka University, Makurdi",
+        "university": "Joseph Sarwuan Tarka University, Makurdi",
+        "vice chancellor": "Prof. Richard Anande Kimbir",
+        "website": "https://www.uam.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Benin",
+        "university": "University of Benin",
+        "vice chancellor": "Professor Lilian Salami",
+        "website": "https://www.uniben.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Calabar",
+        "university": "University of Calabar",
+        "vice chancellor": "Prof. Florence Obi",
+        "website": "https://www.unical.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Ibadan",
+        "university": "University of Ibadan",
+        "vice chancellor": "Professor Kayode Oyebode Adebowale",
+        "website": "https://www.ui.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Ilorin",
+        "university": "University of Ilorin",
+        "vice chancellor": "Prof. Wahab O. Egbewole",
+        "website": "https://www.unilorin.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Jos",
+        "university": "University of Jos",
+        "vice chancellor": "Prof. Tanko Ishaya",
+        "website": "https://www.unijos.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Lagos",
+        "university": "University of Lagos",
+        "vice chancellor": "Prof. Folasade T Ogunsola",
+        "website": "https://www.unilag.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Maiduguri",
+        "university": "University of Maiduguri",
+        "vice chancellor": "Professor Aliyu Shugaba",
+        "website": "https://www.unimaid.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "University of Nigeria, Nsukka",
+        "university": "University of Nigeria, Nsukka",
+        "vice chancellor": "Prof. Charles Igwe",
+        "website": "https://www.unn.edu.ng",
+        "started": "2013"
+    },
+    {
+        "school": "University of Port-Harcourt",
+        "university": "University of Port-Harcourt",
+        "vice chancellor": "Professor Owunari Georgewill",
+        "website": "https://www.uniport.edu.ng",
+        "started": "2013"
+    },
+    {
+        "school": "University of Uyo",
+        "university": "University of Uyo",
+        "vice chancellor": "Professor Nyaudo Ndaeyo",
+        "website": "https://www.uniuyo.edu.ng",
+        "started": "2013"
+    },
+    {
+        "school": "Usumanu Danfodiyo University",
+        "university": "Usumanu Danfodiyo University",
+        "vice chancellor": "Professor L S Bilbis",
+        "website": "https://www.udusok.edu.ng",
+        "started": "2013"
+    },
+    {
+        "school": "Nigerian Maritime University Okerenkoko, Delta State",
+        "university": "Nigerian Maritime University Okerenkoko, Delta State",
+        "vice chancellor": "Prof. Emmanuel Adigio",
+        "website": "https://www.nmu.edu.ng",
+        "started": "2018"
+    },
+    {
+        "school": "Air Force Institute of Technology, Kaduna",
+        "university": "Air Force Institute of Technology, Kaduna",
+        "vice chancellor": "Prof. Mohammed Dauda (Provost)",
+        "website": "https://afit.edu.ng",
+        "started": "2018"
+    },
+    {
+        "school": "Nigerian Army University Biu",
+        "university": "Nigerian Army University Biu",
+        "vice chancellor": "Prof. Kyari Mohammed",
+        "website": "https://naub.edu.ng/",
+        "started": "2018"
+    },
+    {
+        "school": "Federal University of Health Sciences, Otukpo, Benue State",
+        "university": "Federal University of Health Sciences, Otukpo, Benue State",
+        "vice chancellor": "Prof Innocent Ujah",
+        "website": null,
+        "started": "2020"
+    },
+    {
+        "school": "Federal University of Agriculture, Zuru, Kebbi State",
+        "university": "Federal University of Agriculture, Zuru, Kebbi State",
+        "vice chancellor": "Prof Musa Isiyaku Ahmed",
+        "website": null,
+        "started": "2020"
+    },
+    {
+        "school": "Federal University of Technology, Babura, Jigawa State",
+        "university": "Federal University of Technology, Babura, Jigawa State",
+        "vice chancellor": "Prof Sabo I Birnin-kudu",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Federal University of Technology, Ikot Abasi, Akwa Ibom State",
+        "university": "Federal University of Technology, Ikot Abasi, Akwa Ibom State",
+        "vice chancellor": "Prof Leo Daniel",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Federal University of Health Sciences, Azare, Bauchi State",
+        "university": "Federal University of Health Sciences, Azare, Bauchi State",
+        "vice chancellor": "Prof Bala Audu",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Federal University of Health Sciences, Ila Orangun, Osun State",
+        "university": "Federal University of Health Sciences, Ila Orangun, Osun State",
+        "vice chancellor": "Prof Akeem Olawale Lasisi",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "David Nweze Umahi Federal University of Medical Sciences, Uburu",
+        "university": "David Nweze Umahi Federal University of Medical Sciences, Uburu",
+        "vice chancellor": "Prof. Jesse Uneke",
+        "website": "https://kdums.edu.ng/",
+        "started": "2022"
+    },
+    {
+        "school": "Admiralty University Ibusa, Delta State",
+        "university": "Admiralty University Ibusa, Delta State",
+        "vice chancellor": "Prof. Paul Omaji",
+        "website": "https://adun.edu.ng",
+        "started": "2022"
+    },
+    {
+        "school": "Federal University of Transportation Daura, Katsina",
+        "university": "Federal University of Transportation Daura, Katsina",
+        "vice chancellor": "Prof. Umar Adam Katsayal",
+        "website": "https://www.futd.edu.ng/",
+        "started": "2023"
+    },
+    {
+        "school": "African Aviation and Aerospace University",
+        "university": "African Aviation and Aerospace University",
+        "vice chancellor": null,
+        "website": "https://aaau.edu.ng/",
+        "started": "2023"
+    },
+    {
+        "school": "National University of Science and Technology, Abuja",
+        "university": "National University of Science and Technology, Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Federal University of Agriculture Bassam-Biri, Bayelsa",
+        "university": "Federal University of Agriculture Bassam-Biri, Bayelsa",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Federal University of Health Sciences Kwale, Delta State",
+        "university": "Federal University of Health Sciences Kwale, Delta State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Federal University of Health Sciences, Katsina",
+        "university": "Federal University of Health Sciences, Katsina",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Federal University of Agriculture, Mubi",
+        "university": "Federal University of Agriculture, Mubi",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Federal University of Education, Zaria, Kaduna State",
+        "university": "Federal University of Education, Zaria, Kaduna State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Alvan Ikoku Federal University of Education, Owerri, Imo State",
+        "university": "Alvan Ikoku Federal University of Education, Owerri, Imo State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Federal University of Education, Kano",
+        "university": "Federal University of Education, Kano",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Adeyemi Federal University of Education, Ondo",
+        "university": "Adeyemi Federal University of Education, Ondo",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Zamfara State University",
+        "university": "Zamfara State University",
+        "vice chancellor": "Prof Yahaya Zakari Abdullahi",
+        "website": null,
+        "started": "2018"
+    },
+    {
+        "school": "Yusuf Maitama Sule University Kano",
+        "university": "Yusuf Maitama Sule University Kano",
+        "vice chancellor": "Prof. Muktar Atiku Kurawa",
+        "website": "https://www.nwu.edu.ng",
+        "started": "2012"
+    },
+    {
+        "school": "Yobe State University, Damaturu",
+        "university": "Yobe State University, Damaturu",
+        "vice chancellor": "Prof. Mala M. Daura",
+        "website": "https://www.ysu.edu.ng",
+        "started": "2006"
+    },
+    {
+        "school": "University of Ilesa, Osun State",
+        "university": "University of Ilesa, Osun State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "University of Delta, Agbor",
+        "university": "University of Delta, Agbor",
+        "vice chancellor": "Prof. Stells C. Chiemeke",
+        "website": "https://unidel.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "University of Agriculture and Environmental Sciences Umuagwo, Imo State",
+        "university": "University of Agriculture and Environmental Sciences Umuagwo, Imo State",
+        "vice chancellor": "Prof. Patrick E. Egbule",
+        "website": "https://www.uaes.edu.ng/",
+        "started": "2019"
+    },
+    {
+        "school": "University of Africa Toru Orua, Bayelsa State",
+        "university": "University of Africa Toru Orua, Bayelsa State",
+        "vice chancellor": "Prof. Kingston Nyamapfene",
+        "website": "https://www.uat.edu.ng/public/",
+        "started": "2016"
+    },
+    {
+        "school": "Umar Musa Yar' Adua University Katsina",
+        "university": "Umar Musa Yar' Adua University Katsina",
+        "vice chancellor": "Prof. Sanusi Mamman",
+        "website": "https://www.umyu.edu.ng",
+        "started": "2006"
+    },
+    {
+        "school": "Taraba State University, Jalingo",
+        "university": "Taraba State University, Jalingo",
+        "vice chancellor": "Prof. Sunday Paul Bako",
+        "website": "https://www.tsuniversity.edu.ng",
+        "started": "2008"
+    },
+    {
+        "school": "Tai Solarin University of Education Ijebu Ode",
+        "university": "Tai Solarin University of Education Ijebu Ode",
+        "vice chancellor": "Prof. Oluwole Sikiru Banjo",
+        "website": "https://www.tasued.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Sule Lamido University, Kafin Hausa, Jigawa",
+        "university": "Sule Lamido University, Kafin Hausa, Jigawa",
+        "vice chancellor": "Prof. Lawan Sani Taura",
+        "website": "https://www.slu.edu.ng",
+        "started": "2013"
+    },
+    {
+        "school": "State University of Medical and Applied Sciences, Igbo-Eno, Enugu",
+        "university": "State University of Medical and Applied Sciences, Igbo-Eno, Enugu",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Sokoto State University",
+        "university": "Sokoto State University",
+        "vice chancellor": "Prof. Bashiru Garba",
+        "website": "https://www.ssu.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Shehu Shagari University of Education, Sokoto",
+        "university": "Shehu Shagari University of Education, Sokoto",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Sa’adatu Rimi University of Education",
+        "university": "Sa’adatu Rimi University of Education",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Rivers State University",
+        "university": "Rivers State University",
+        "vice chancellor": "Prof. Nlerum S. Okogbule",
+        "website": "https://www.rsu.edu.ng",
+        "started": "1979"
+    },
+    {
+        "school": "Prince Abubakar Audu University Anyigba",
+        "university": "Prince Abubakar Audu University Anyigba",
+        "vice chancellor": "Professor Marietu Ohunene Tenuche",
+        "website": "https://www.ksu.edu.ng",
+        "started": "1999"
+    },
+    {
+        "school": "Plateau State University Bokkos",
+        "university": "Plateau State University Bokkos",
+        "vice chancellor": "Prof. Yohana D. Izam",
+        "website": "https://www.plasu.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Osun State University Osogbo",
+        "university": "Osun State University Osogbo",
+        "vice chancellor": "Prof Odunayo Clement Adeboye",
+        "website": "https://www.uniosun.edu.ng",
+        "started": "2006"
+    },
+    {
+        "school": "Ondo State University of Science and Technology Okitipupa",
+        "university": "Ondo State University of Science and Technology Okitipupa",
+        "vice chancellor": "Prof. Temi Emmanuel Ologunorisa",
+        "website": "https://www.osustech.edu.ng",
+        "started": "2008"
+    },
+    {
+        "school": "Ondo State University of Medical Sciences",
+        "university": "Ondo State University of Medical Sciences",
+        "vice chancellor": "Prof. Adesegun Fatusi",
+        "website": "https://www.unimed.edu.ng",
+        "started": "2015"
+    },
+    {
+        "school": "Olabisi Onabanjo University, Ago Iwoye",
+        "university": "Olabisi Onabanjo University, Ago Iwoye",
+        "vice chancellor": "Prof Ayodeji Johnson Agboola",
+        "website": "https://www.oouagoiwoye.edu.ng",
+        "started": "1982"
+    },
+    {
+        "school": "Niger Delta University Yenagoa",
+        "university": "Niger Delta University Yenagoa",
+        "vice chancellor": "Prof. Samuel Gowon Edoumiekumo",
+        "website": "https://www.ndu.edu.ng",
+        "started": "2000"
+    },
+    {
+        "school": "Nasarawa State University Keffi",
+        "university": "Nasarawa State University Keffi",
+        "vice chancellor": "Prof. Suleiman Bala Mohammed",
+        "website": "https://www.nsuk.edu.ng",
+        "started": "2002"
+    },
+    {
+        "school": "Moshood Abiola University of Science and Technology Abeokuta",
+        "university": "Moshood Abiola University of Science and Technology Abeokuta",
+        "vice chancellor": "Prof Akinwale Coker",
+        "website": null,
+        "started": "2017"
+    },
+    {
+        "school": "Lagos State University, Ojo",
+        "university": "Lagos State University, Ojo",
+        "vice chancellor": "Prof. Ibiyemi Olatunji-Bello",
+        "website": "https://www.lasu.edu.ng",
+        "started": "1983"
+    },
+    {
+        "school": "Lagos State University of Science and Technology Ikorodu",
+        "university": "Lagos State University of Science and Technology Ikorodu",
+        "vice chancellor": null,
+        "website": null,
+        "started": null
+    },
+    {
+        "school": "Lagos State University of Education, Ijanikin",
+        "university": "Lagos State University of Education, Ijanikin",
+        "vice chancellor": null,
+        "website": null,
+        "started": null
+    },
+    {
+        "school": "Ladoke Akintola University of Technology, Ogbomoso",
+        "university": "Ladoke Akintola University of Technology, Ogbomoso",
+        "vice chancellor": "Prof. Mojeed Olaide Liasu",
+        "website": "https://www.lautech.edu.ng",
+        "started": "1990"
+    },
+    {
+        "school": "Kwara State University, Ilorin",
+        "university": "Kwara State University, Ilorin",
+        "vice chancellor": "Professor Mohammed M Akanbi",
+        "website": "https://www.kwasu.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Kogi State University, Kabba",
+        "university": "Kogi State University, Kabba",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Kingsley Ozumba Mbadiwe University Ogboko, Imo State",
+        "university": "Kingsley Ozumba Mbadiwe University Ogboko, Imo State",
+        "vice chancellor": "Prof. Ikechukwu N. S. Dozie",
+        "website": "https://www.komu.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Kebbi State University of Science and Technology, Aliero",
+        "university": "Kebbi State University of Science and Technology, Aliero",
+        "vice chancellor": "Prof. Bashar Ladan Aliero",
+        "website": "https://www.ksusta.edu.ng",
+        "started": "2006"
+    },
+    {
+        "school": "Kano University of Science & Technology, Wudil",
+        "university": "Kano University of Science & Technology, Wudil",
+        "vice chancellor": "Professor IShehu A Musa",
+        "website": "https://www.kust.edu.ng",
+        "started": "2000"
+    },
+    {
+        "school": "Kaduna State University, Kaduna",
+        "university": "Kaduna State University, Kaduna",
+        "vice chancellor": "Professor Muhammad Tanko",
+        "website": "https://www.kasu.edu.ng",
+        "started": "2004"
+    },
+    {
+        "school": "Imo State University, Owerri",
+        "university": "Imo State University, Owerri",
+        "vice chancellor": "Prof. U Chukwumaeze",
+        "website": "https://www.imsu.edu.ng",
+        "started": "1992"
+    },
+    {
+        "school": "Ignatius Ajuru University of Education,Rumuolumeni",
+        "university": "Ignatius Ajuru University of Education,Rumuolumeni",
+        "vice chancellor": "Prof. Okechukwu Onochukwu",
+        "website": "https://www.iaue.edu.ng",
+        "started": "2010"
+    },
+    {
+        "school": "Ibrahim Badamasi Babangida University, Lapai",
+        "university": "Ibrahim Badamasi Babangida University, Lapai",
+        "vice chancellor": "Prof. Kasim Adamu",
+        "website": "https://www.ibbu.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Gombe State University of Science and Technology",
+        "university": "Gombe State University of Science and Technology",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2017"
+    },
+    {
+        "school": "Gombe State Univeristy, Gombe",
+        "university": "Gombe State Univeristy, Gombe",
+        "vice chancellor": "Prof. Aliyu Usman El-Nafaty",
+        "website": "https://www.gsu.edu.ng",
+        "started": "2004"
+    },
+    {
+        "school": "First Technical University Ibadan",
+        "university": "First Technical University Ibadan",
+        "vice chancellor": "Prof. Adesola Ajayi",
+        "website": "https://tech-u.edu.ng/",
+        "started": "2012"
+    },
+    {
+        "school": "Enugu State University of Science and Technology, Enugu",
+        "university": "Enugu State University of Science and Technology, Enugu",
+        "vice chancellor": "Prof.Aloysius Michael Okolie",
+        "website": "https://www.esut.edu.ng",
+        "started": "1982"
+    },
+    {
+        "school": "Emanuel Alayande University of Education Oyo",
+        "university": "Emanuel Alayande University of Education Oyo",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Ekiti State University",
+        "university": "Ekiti State University",
+        "vice chancellor": "Prof. Edward O. Olanipekun",
+        "website": "https://www.eksu.edu.ng",
+        "started": "1982"
+    },
+    {
+        "school": "Edo State University Uzairue",
+        "university": "Edo State University Uzairue",
+        "vice chancellor": "Prof. Emmanuel Aluyor (Ag)",
+        "website": "https://www.edouniversity.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Ebonyi State University, Abakaliki",
+        "university": "Ebonyi State University, Abakaliki",
+        "vice chancellor": "Professor Chigozie N Ogbu",
+        "website": "https://www.ebsu.edu.ng",
+        "started": "2000"
+    },
+    {
+        "school": "Dennis Osadebe University, Asaba",
+        "university": "Dennis Osadebe University, Asaba",
+        "vice chancellor": null,
+        "website": "https://www.dou.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Delta University of Science and Technology, Ozoro",
+        "university": "Delta University of Science and Technology, Ozoro",
+        "vice chancellor": null,
+        "website": "https://dsust.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Delta State University Abraka",
+        "university": "Delta State University Abraka",
+        "vice chancellor": "Professor Andy Egwunyenga",
+        "website": "https://www.delsu.edu.ng",
+        "started": "1992"
+    },
+    {
+        "school": "Cross River State University of Technology, Calabar",
+        "university": "Cross River State University of Technology, Calabar",
+        "vice chancellor": "Prof. Augustine Oko Angba",
+        "website": "https://www.crutech.edu.ng",
+        "started": "2004"
+    },
+    {
+        "school": "Confluence University of Science and Technology Osara, Kogi",
+        "university": "Confluence University of Science and Technology Osara, Kogi",
+        "vice chancellor": "Prof. Salawu Sadiku",
+        "website": "https://custech.edu.ng/",
+        "started": "2020"
+    },
+    {
+        "school": "Chukwuemeka Odumegwu Ojukwu University, Uli",
+        "university": "Chukwuemeka Odumegwu Ojukwu University, Uli",
+        "vice chancellor": "Prof. Greg C. Nwakoby",
+        "website": "https://coou.edu.ng/",
+        "started": "2000"
+    },
+    {
+        "school": "Bornu State University, Maiduguri",
+        "university": "Bornu State University, Maiduguri",
+        "vice chancellor": "Prof. Umar Kyari Sandabe",
+        "website": null,
+        "started": "2016"
+    },
+    {
+        "school": "Benue State University, Makurdi",
+        "university": "Benue State University, Makurdi",
+        "vice chancellor": "Prof. Joe Tor Iorapuu",
+        "website": "https://www.bsum.edu.ng",
+        "started": "1992"
+    },
+    {
+        "school": "Bayelsa Medical University",
+        "university": "Bayelsa Medical University",
+        "vice chancellor": "Prof. Ebitimitula Nicholas Etebu",
+        "website": "https://bmu.edu.ng/",
+        "started": "2019"
+    },
+    {
+        "school": "Bauchi State University, Gadau",
+        "university": "Bauchi State University, Gadau",
+        "vice chancellor": "Prof. Auwalu Uba Adamu",
+        "website": "https://www.basug.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "Bamidele Olumilua University of Science and Technology Ikere, Ekiti State",
+        "university": "Bamidele Olumilua University of Science and Technology Ikere, Ekiti State",
+        "vice chancellor": "Prof. Olufemi V Adeoluwa",
+        "website": "https://bouesti.edu.ng/",
+        "started": "2020"
+    },
+    {
+        "school": "Ambrose Alli University, Ekpoma",
+        "university": "Ambrose Alli University, Ekpoma",
+        "vice chancellor": "Professor Sunny Adagbonyi",
+        "website": "https://www.aauekpoma.edu.ng",
+        "started": "1980"
+    },
+    {
+        "school": "Akwa Ibom State University, Ikot Akpaden",
+        "university": "Akwa Ibom State University, Ikot Akpaden",
+        "vice chancellor": "Prof. Nse U. Essien",
+        "website": "https://www.aksu.edu.ng",
+        "started": "2010"
+    },
+    {
+        "school": "Adekunle Ajasin University, Akungba",
+        "university": "Adekunle Ajasin University, Akungba",
+        "vice chancellor": "Prof. Olugbenga E. Ige",
+        "website": "https://www.aaua.edu.ng",
+        "started": "1999"
+    },
+    {
+        "school": "Adamawa State University Mubi",
+        "university": "Adamawa State University Mubi",
+        "vice chancellor": "Prof (Mrs) Kaletapwa Farauta",
+        "website": "https://www.adsu.edu.ng",
+        "started": "2002"
+    },
+    {
+        "school": "Abia State University, Uturu",
+        "university": "Abia State University, Uturu",
+        "vice chancellor": "Prof. Onyemachi M. Ogbulu",
+        "website": "https://www.abiastateuniversity.edu.ng",
+        "started": "1981"
+    },
+    {
+        "school": "AbdulKadir Kure University, Minna Niger State",
+        "university": "AbdulKadir Kure University, Minna Niger State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Achievers University, Owo",
+        "university": "Achievers University, Owo",
+        "vice chancellor": "Professor Samuel Aje",
+        "website": "https://www.achievers.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Adeleke University, Ede",
+        "university": "Adeleke University, Ede",
+        "vice chancellor": "Prof. Samuel E Alao",
+        "website": "https://www.adelekeuniversity.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "Afe Babalola University, Ado-Ekiti - Ekiti State",
+        "university": "Afe Babalola University, Ado-Ekiti - Ekiti State",
+        "vice chancellor": "Prof. E. Smaranda Olarinde",
+        "website": "https://www.abuad.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Ajayi Crowther University, Ibadan",
+        "university": "Ajayi Crowther University, Ibadan",
+        "vice chancellor": "Prof. Timothy A. Adebayo",
+        "website": "https://www.acu.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Al-Hikmah University, Ilorin",
+        "university": "Al-Hikmah University, Ilorin",
+        "vice chancellor": "Professor Noah Yusuf",
+        "website": "https://www.alhikmah.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Al-Qalam University, Katsina",
+        "university": "Al-Qalam University, Katsina",
+        "vice chancellor": "Prof. Nasiru Musa Yauri",
+        "website": "https://www.auk.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "American University of Nigeria, Yola",
+        "university": "American University of Nigeria, Yola",
+        "vice chancellor": "Dr. Margee Ensign",
+        "website": "https://www.aun.edu.ng",
+        "started": "2003"
+    },
+    {
+        "school": "Augustine University",
+        "university": "Augustine University",
+        "vice chancellor": "Prof. Steve Afolami",
+        "website": "https://www.augustineuniversity.edu.ng/",
+        "started": "2015"
+    },
+    {
+        "school": "Babcock University,Ilishan-Remo",
+        "university": "Babcock University,Ilishan-Remo",
+        "vice chancellor": "Professor Ademola Stephen Tayo",
+        "website": "https://www.babcock.edu.ng",
+        "started": "1999"
+    },
+    {
+        "school": "Baze University",
+        "university": "Baze University",
+        "vice chancellor": "Prof. Michael Hodd",
+        "website": "https://www.bazeuniversity.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "Bells University of Technology, Otta",
+        "university": "Bells University of Technology, Otta",
+        "vice chancellor": "Professor Jeremiah Ojediran",
+        "website": "https://www.bellsuniversity.edu.ng/",
+        "started": "2005"
+    },
+    {
+        "school": "Benson Idahosa University, Benin City",
+        "university": "Benson Idahosa University, Benin City",
+        "vice chancellor": "Prof. Sam Guobadia",
+        "website": "https://www.biu.edu.ng/",
+        "started": "2002"
+    },
+    {
+        "school": "Bingham University, New Karu",
+        "university": "Bingham University, New Karu",
+        "vice chancellor": "Prof. Haruna Kuje Ayuba",
+        "website": "https://www.binghamuni.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Bowen University, Iwo",
+        "university": "Bowen University, Iwo",
+        "vice chancellor": "Professor. Joshua Ogunwole",
+        "website": "https://www.bowen.edu.ng",
+        "started": "2001"
+    },
+    {
+        "school": "Caleb University, Lagos",
+        "university": "Caleb University, Lagos",
+        "vice chancellor": "Professor Nosa Owens-Ibie",
+        "website": "https://www.calebuniversity.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Caritas University, Enugu",
+        "university": "Caritas University, Enugu",
+        "vice chancellor": "Prof. Michael Uchenna Orji",
+        "website": "https://www.caritasuni.edu.ng/",
+        "started": "2005"
+    },
+    {
+        "school": "Chrisland University",
+        "university": "Chrisland University",
+        "vice chancellor": "Prof (Mrs) Chinedum Peace Babalola",
+        "website": "https://www.chrislanduniversity.edu.ng",
+        "started": "2015"
+    },
+    {
+        "school": "Covenant University Ota",
+        "university": "Covenant University Ota",
+        "vice chancellor": "Prof. Abiodun Humphrey Adebayo",
+        "website": "https://www.covenantuniversity.edu.ng/",
+        "started": "2002"
+    },
+    {
+        "school": "Crawford University Igbesa",
+        "university": "Crawford University Igbesa",
+        "vice chancellor": "Prof. Isaac Rotimi Ajayi",
+        "website": "https://www.crawforduniversity.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Crescent University",
+        "university": "Crescent University",
+        "vice chancellor": "Professor Ibrahim Gbajabiamila",
+        "website": "https://www.crescent-university.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Edwin Clark University, Kaigbodo",
+        "university": "Edwin Clark University, Kaigbodo",
+        "vice chancellor": "Prof. Timothy O Olagbemiro",
+        "website": "https://www.edwinclarkuniversity.edu.ng/",
+        "started": "2015"
+    },
+    {
+        "school": "Elizade University, Ilara-Mokin",
+        "university": "Elizade University, Ilara-Mokin",
+        "vice chancellor": "Prof. Kayode Ijadunola",
+        "website": "https://www.elizadeuniversity.edu.ng",
+        "started": "2012"
+    },
+    {
+        "school": "African University of Science and Technology, Abuja",
+        "university": "African University of Science and Technology, Abuja",
+        "vice chancellor": null,
+        "website": "http://aust.edu.ng/",
+        "started": "2007"
+    },
+    {
+        "school": "Evangel University, Akaeze",
+        "university": "Evangel University, Akaeze",
+        "vice chancellor": "Prof. I U Kalu",
+        "website": "https://www.evangeluniversity.edu.ng",
+        "started": "2012"
+    },
+    {
+        "school": "Fountain Unveristy, Oshogbo",
+        "university": "Fountain Unveristy, Oshogbo",
+        "vice chancellor": "Prof. Amidu Olalekan Sanni",
+        "website": "https://www.fuo.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Godfrey Okoye University, Ugwuomu-Nike - Enugu State",
+        "university": "Godfrey Okoye University, Ugwuomu-Nike - Enugu State",
+        "vice chancellor": "Prof. (Revd.) Chikelu. Anieke",
+        "website": "https://www.gouni.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Gregory University, Uturu",
+        "university": "Gregory University, Uturu",
+        "vice chancellor": "Prof. M O E Iwuala",
+        "website": "https://www.gregoryuniversity.com",
+        "started": "2012"
+    },
+    {
+        "school": "Hallmark University, Ijebi Itele, Ogun",
+        "university": "Hallmark University, Ijebi Itele, Ogun",
+        "vice chancellor": "Prof. Segun Odunola",
+        "website": "https://www.hallmark.edu.ng",
+        "started": "2015"
+    },
+    {
+        "school": "Hezekiah University, Umudi",
+        "university": "Hezekiah University, Umudi",
+        "vice chancellor": "Prof. Chiedozie O. Ibegbulem",
+        "website": "https://hezekiah.edu.ng/",
+        "started": "2015"
+    },
+    {
+        "school": "Igbinedion University Okada",
+        "university": "Igbinedion University Okada",
+        "vice chancellor": "Professor Lawrence Ikechukwu Ezemonye",
+        "website": "https://www.iuokada.edu.ng",
+        "started": "1999"
+    },
+    {
+        "school": "Joseph Ayo Babalola University, Ikeji-Arakeji",
+        "university": "Joseph Ayo Babalola University, Ikeji-Arakeji",
+        "vice chancellor": "Professor Kola Sonaike",
+        "website": "https://www.jabu.edu.ng",
+        "started": "2006"
+    },
+    {
+        "school": "Kings University, Ode Omu",
+        "university": "Kings University, Ode Omu",
+        "vice chancellor": "Prof. Adenike Kuku",
+        "website": "https://www.kingsuniversity.edu.ng/",
+        "started": "2015"
+    },
+    {
+        "school": "Kwararafa University, Wukari",
+        "university": "Kwararafa University, Wukari",
+        "vice chancellor": "Professor Yakubu A Ochefu",
+        "website": "https://www.kwararafauniversity.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Landmark University, Omu-Aran.",
+        "university": "Landmark University, Omu-Aran.",
+        "vice chancellor": "Prof. Charity O. Aremu",
+        "website": "https://www.lmu.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "Lead City University, Ibadan",
+        "university": "Lead City University, Ibadan",
+        "vice chancellor": "Prof. Kabiru Aderemi Adeyemo",
+        "website": "https://www.lcu.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Madonna University, Okija",
+        "university": "Madonna University, Okija",
+        "vice chancellor": "Prof. Uchenna Casmir Anyanwu",
+        "website": "https://www.madonnauniversity.edu.ng",
+        "started": "1999"
+    },
+    {
+        "school": "Mcpherson University, Seriki Sotayo, Ajebo",
+        "university": "Mcpherson University, Seriki Sotayo, Ajebo",
+        "vice chancellor": "Prof. Adegbaye F. Igbasan",
+        "website": "https://www.mcu.edu.ng",
+        "started": "2012"
+    },
+    {
+        "school": "Micheal & Cecilia Ibru University",
+        "university": "Micheal & Cecilia Ibru University",
+        "vice chancellor": "Prof. (Mrs.) Ibiynka A. Fuwape",
+        "website": "https://mciu.edu.ng/",
+        "started": "2015"
+    },
+    {
+        "school": "Mountain Top University",
+        "university": "Mountain Top University",
+        "vice chancellor": "Prof Elijah Ayolabi",
+        "website": "https://www.mtu.edu.ng",
+        "started": "2015"
+    },
+    {
+        "school": "Nile University of Nigeria, Abuja",
+        "university": "Nile University of Nigeria, Abuja",
+        "vice chancellor": "Prof. Osman Nuri Aras",
+        "website": "https://www.nileuniversity.edu.ng/",
+        "started": "2009"
+    },
+    {
+        "school": "Novena University, Ogume",
+        "university": "Novena University, Ogume",
+        "vice chancellor": "Prof Chris Aniche Okoroafor",
+        "website": "https://www.novenauniversity.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Obong University, Obong Ntak",
+        "university": "Obong University, Obong Ntak",
+        "vice chancellor": "Professor Udouda M Ekanemesang",
+        "website": "https://www.obonguniversity.net",
+        "started": "2007"
+    },
+    {
+        "school": "Oduduwa University, Ipetumodu - Osun State",
+        "university": "Oduduwa University, Ipetumodu - Osun State",
+        "vice chancellor": "Prof. Benjamin Segun Aribisala",
+        "website": "https://www.oduduwauniversity.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Pan-Atlantic University, Lagos",
+        "university": "Pan-Atlantic University, Lagos",
+        "vice chancellor": "Professor Enase Okonedo",
+        "website": "https://www.pau.edu.ng",
+        "started": "2002"
+    },
+    {
+        "school": "Paul University, Awka - Anambra State",
+        "university": "Paul University, Awka - Anambra State",
+        "vice chancellor": "Professor Obiora Nwosu",
+        "website": "https://www.pauluniversity.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Redeemer's University, Ede",
+        "university": "Redeemer's University, Ede",
+        "vice chancellor": "Professor Anthony Enisan Akinlo",
+        "website": "https://www.run.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Renaissance University, Enugu",
+        "university": "Renaissance University, Enugu",
+        "vice chancellor": "Prof. Patrick Egbunam Emekekwue",
+        "website": "https://www.rnu.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Rhema University, Obeama-Asa - Rivers State",
+        "university": "Rhema University, Obeama-Asa - Rivers State",
+        "vice chancellor": "Professor O. C. Onwudike",
+        "website": "https://www.rhemauniversity.edu.ng",
+        "started": "2009"
+    },
+    {
+        "school": "Ritman University, Ikot Ekpene, Akwa Ibom",
+        "university": "Ritman University, Ikot Ekpene, Akwa Ibom",
+        "vice chancellor": "Prof. Celestine A Ntuen",
+        "website": "https://www.ritmanuniversity.edu.ng",
+        "started": "2015"
+    },
+    {
+        "school": "Salem University, Lokoja",
+        "university": "Salem University, Lokoja",
+        "vice chancellor": "Prof. Alewo Johnson Akub",
+        "website": "https://www.salemuniversity.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Glorious Vision University, Ogwa, Edo State.",
+        "university": "Glorious Vision University, Ogwa, Edo State.",
+        "vice chancellor": "Prof. Babatunde A. Idowu",
+        "website": "https://www.sau.edu.ng",
+        "started": "2011"
+    },
+    {
+        "school": "Southwestern University, Oku Owa",
+        "university": "Southwestern University, Oku Owa",
+        "vice chancellor": "Prof. Jide Oluwajuyitan",
+        "website": "https://www.southwesternuniversity.edu.ng",
+        "started": "2012"
+    },
+    {
+        "school": "Summit University, Offa",
+        "university": "Summit University, Offa",
+        "vice chancellor": "Prof. Abiodun Musa Aibinu",
+        "website": "https://www.summituniversity.edu.ng",
+        "started": "2015"
+    },
+    {
+        "school": "Tansian University, Umunya",
+        "university": "Tansian University, Umunya",
+        "vice chancellor": "Professor Edward Chukwuka Orji",
+        "website": "https://tansianuniversity.edu.ng/",
+        "started": "2007"
+    },
+    {
+        "school": "University of Mkar, Mkar",
+        "university": "University of Mkar, Mkar",
+        "vice chancellor": "Prof. Zacharys A. Gundu",
+        "website": "https://www.unimkar.edu.ng",
+        "started": "2005"
+    },
+    {
+        "school": "Veritas University, Abuja",
+        "university": "Veritas University, Abuja",
+        "vice chancellor": "Prof. Yacinth E. Ichoku",
+        "website": "https://www.veritas.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Wellspring University, Evbuobanosa - Edo State",
+        "university": "Wellspring University, Evbuobanosa - Edo State",
+        "vice chancellor": "Professor F E Obi Ikediugwu",
+        "website": "https://www.wellspringuniversity.net",
+        "started": "2009"
+    },
+    {
+        "school": "Wesley University Ondo",
+        "university": "Wesley University Ondo",
+        "vice chancellor": "Professor Tola Badejo",
+        "website": "https://www.wesleyuni.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Western Delta University, Oghara Delta State",
+        "university": "Western Delta University, Oghara Delta State",
+        "vice chancellor": "Prof. (Mrs) Olete Okobiah",
+        "website": "https://wdu.edu.ng",
+        "started": "2007"
+    },
+    {
+        "school": "Christopher University Mowe",
+        "university": "Christopher University Mowe",
+        "vice chancellor": "Prof. Oyelana Olatunji",
+        "website": "https://www.christopheruniversity.edu.ng/",
+        "started": "2015"
+    },
+    {
+        "school": "Kola Daisi University Ibadan, Oyo State",
+        "university": "Kola Daisi University Ibadan, Oyo State",
+        "vice chancellor": "Prof. Kolade Ayorinde",
+        "website": "https://www.koladaisiuniversity.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Anchor University Ayobo Lagos State",
+        "university": "Anchor University Ayobo Lagos State",
+        "vice chancellor": "Prof. J O Afolayan",
+        "website": "https://www.aul.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Dominican University Ibadan Oyo State",
+        "university": "Dominican University Ibadan Oyo State",
+        "vice chancellor": "Prof. Jacinta Opara",
+        "website": "https://www.dui.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Legacy University, Okija Anambra State",
+        "university": "Legacy University, Okija Anambra State",
+        "vice chancellor": "Prof. Moses Nkem Chendo",
+        "website": "https://www.legacyuniversity.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Arthur Javis University Akpoyubo Cross river State",
+        "university": "Arthur Javis University Akpoyubo Cross river State",
+        "vice chancellor": "Prof. Julian Osuji",
+        "website": "https://www.arthurjarvisuniversity.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Ojaja University Eiyenkorin, Kwara State",
+        "university": "Ojaja University Eiyenkorin, Kwara State",
+        "vice chancellor": "Prof. Jeleel Olasunkanmi, Ojuade",
+        "website": "https://www.crownhilluniversity.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Coal City University Enugu State",
+        "university": "Coal City University Enugu State",
+        "vice chancellor": "Prof. Afam Icha-Ituma",
+        "website": "https://www.ccu.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Clifford University Owerrinta Abia State",
+        "university": "Clifford University Owerrinta Abia State",
+        "vice chancellor": "Prof. Chimezie A Omeonu",
+        "website": "https://www.clifforduni.edu.ng/",
+        "started": "2016"
+    },
+    {
+        "school": "Spiritan University, Nneochi Abia State",
+        "university": "Spiritan University, Nneochi Abia State",
+        "vice chancellor": "Prof. Remy Onyewuenyi",
+        "website": "https://www.spiritanuniversity.edu.ng",
+        "started": "2017"
+    },
+    {
+        "school": "Precious Cornerstone University, Oyo",
+        "university": "Precious Cornerstone University, Oyo",
+        "vice chancellor": "Prof. Julius Kolawole Oloke",
+        "website": "https://www.pcu.edu.ng",
+        "started": "2017"
+    },
+    {
+        "school": "PAMO University of Medical Sciences, Portharcourt",
+        "university": "PAMO University of Medical Sciences, Portharcourt",
+        "vice chancellor": "Prof. Michael Diejomaoh",
+        "website": "https://www.pums.edu.ng",
+        "started": "2017"
+    },
+    {
+        "school": "Atiba University Oyo",
+        "university": "Atiba University Oyo",
+        "vice chancellor": "Prof Sunday Okeniyi",
+        "website": null,
+        "started": "2017"
+    },
+    {
+        "school": "Eko University of Medical and Health Sciences Ijanikin, Lagos",
+        "university": "Eko University of Medical and Health Sciences Ijanikin, Lagos",
+        "vice chancellor": "Professor Muheez Alani Durosinmi",
+        "website": "https://www.ekounivmed.edu.ng",
+        "started": "2017"
+    },
+    {
+        "school": "Skyline University, Kano",
+        "university": "Skyline University, Kano",
+        "vice chancellor": "Dr. Ajith Kumar V V",
+        "website": "https://www.sun.edu.ng",
+        "started": "2018"
+    },
+    {
+        "school": "Greenfield University, Kaduna",
+        "university": "Greenfield University, Kaduna",
+        "vice chancellor": "Prof. Simon Katung",
+        "website": "https://www.gfu.edu.ng",
+        "started": "2019"
+    },
+    {
+        "school": "Dominion University Ibadan, Oyo State",
+        "university": "Dominion University Ibadan, Oyo State",
+        "vice chancellor": "Prof Olajide A. Olorunisola",
+        "website": "https://www.dominionuniversity.edu.ng/",
+        "started": "2019"
+    },
+    {
+        "school": "Trinity University Ogun State",
+        "university": "Trinity University Ogun State",
+        "vice chancellor": "Professor Charles Korede Ayo",
+        "website": "https://www.trinityuniversity.edu.ng/",
+        "started": "2019"
+    },
+    {
+        "school": "Westland University Iwo, Osun State",
+        "university": "Westland University Iwo, Osun State",
+        "vice chancellor": "Prof. Oshiotse A. Okwilagwe",
+        "website": null,
+        "started": "2019"
+    },
+    {
+        "school": "Topfaith University, Mkpatak, Akwa Ibom State",
+        "university": "Topfaith University, Mkpatak, Akwa Ibom State",
+        "vice chancellor": "Prof. Patrick James Ebewo",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Thomas Adewumi University, Oko-Irese, Kwara State",
+        "university": "Thomas Adewumi University, Oko-Irese, Kwara State",
+        "vice chancellor": "Professor Francisca Oladipo",
+        "website": "https://www.tau.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Maranathan University, Mgbidi, Imo State",
+        "university": "Maranathan University, Mgbidi, Imo State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Ave Maria University, Piyanko, Nasarawa State",
+        "university": "Ave Maria University, Piyanko, Nasarawa State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Al-Istiqama University, Sumaila, Kano State",
+        "university": "Al-Istiqama University, Sumaila, Kano State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Mudiame University, Irrua, Edo State",
+        "university": "Mudiame University, Irrua, Edo State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Havilla University, Nde-Ikom, Cross River State",
+        "university": "Havilla University, Nde-Ikom, Cross River State",
+        "vice chancellor": "Prof. Ejor Tiku Ntuokwa",
+        "website": "https://havillauniversity.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Claretian University of Nigeria, Nekede, Imo State",
+        "university": "Claretian University of Nigeria, Nekede, Imo State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "NOK University, Kachia, Kaduna State",
+        "university": "NOK University, Kachia, Kaduna State",
+        "vice chancellor": "Prof. Ishaya Haruna Nock",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Karl-Kumm University, Vom, Plateau State",
+        "university": "Karl-Kumm University, Vom, Plateau State",
+        "vice chancellor": "Prof. Nanven Audu Gambo",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "James Hope University, Lagos, Lagos State",
+        "university": "James Hope University, Lagos, Lagos State",
+        "vice chancellor": "Prof. Chukuka Enwemeka",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Maryam Abacha American University of Nigeria, Kano State",
+        "university": "Maryam Abacha American University of Nigeria, Kano State",
+        "vice chancellor": "Prof. Mohammad Israr",
+        "website": "https://www.maaun.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Capital City University, Kano State",
+        "university": "Capital City University, Kano State",
+        "vice chancellor": "Prof Sadiq Zubair Abubakar",
+        "website": "https://www.ccuk.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Ahman Pategi University, Kwara State",
+        "university": "Ahman Pategi University, Kwara State",
+        "vice chancellor": "Prof. Adebola Mahfouz Adedimeji",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "University of Offa, Kwara State",
+        "university": "University of Offa, Kwara State",
+        "vice chancellor": "Prof. Musa Aibinu",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Mewar International University, Masaka, Nasarawa State",
+        "university": "Mewar International University, Masaka, Nasarawa State",
+        "vice chancellor": null,
+        "website": "https://www.miu.edu.ng/",
+        "started": "2021"
+    },
+    {
+        "school": "Edusoko University, Bida, Niger State",
+        "university": "Edusoko University, Bida, Niger State",
+        "vice chancellor": "Prof. Muhammad Alkali",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Philomath University, Kuje, Abuja",
+        "university": "Philomath University, Kuje, Abuja",
+        "vice chancellor": "Prof. Gylych Jelilov",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Khadija University, Majia, Jigawa State",
+        "university": "Khadija University, Majia, Jigawa State",
+        "vice chancellor": "Prof. Hassana Sani Darma",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "Anan University, Kwall, Plateau State",
+        "university": "Anan University, Kwall, Plateau State",
+        "vice chancellor": "Prof. Inuwa Musa-Fodio",
+        "website": null,
+        "started": "2021"
+    },
+    {
+        "school": "North Eastern University, Gombe",
+        "university": "North Eastern University, Gombe",
+        "vice chancellor": "Prof. Yusuph Amuda Yahaya",
+        "website": "https://pru.edu.ng/",
+        "started": "2022"
+    },
+    {
+        "school": "Al-Ansar University, Maiduguri, Borno",
+        "university": "Al-Ansar University, Maiduguri, Borno",
+        "vice chancellor": "Prof. Abubakar Kundiri",
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Margaret Lawrence University, Umunede, Delta State",
+        "type": "univerity",
+        "university": "Margaret Lawrence University, Umunede, Delta State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Khalifa Isiyaku Rabiu University, Kano",
+        "type": "univerity",
+        "university": "Khalifa Isiyaku Rabiu University, Kano",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Sports University, Idumuje, Ugboko, Delta State",
+        "type": "univerity",
+        "university": "Sports University, Idumuje, Ugboko, Delta State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Baba Ahmed University, Kano State",
+        "type": "univerity",
+        "university": "Baba Ahmed University, Kano State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Saisa University of Medical Sciences and Technology, Sokoto State",
+        "type": "univerity",
+        "university": "Saisa University of Medical Sciences and Technology, Sokoto State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Nigerian British University, Asa, Abia State",
+        "type": "univerity",
+        "university": "Nigerian British University, Asa, Abia State",
+        "vice chancellor": "Professor Hakeem Fawehinmi,",
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Peter University, Achina-Onneh Anambra State",
+        "type": "univerity",
+        "university": "Peter University, Achina-Onneh Anambra State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Newgate University, MInna, Niger State.",
+        "type": "univerity",
+        "university": "Newgate University, MInna, Niger State.",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "European University of Nigeria, Duboyi, FCT",
+        "type": "univerity",
+        "university": "European University of Nigeria, Duboyi, FCT",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "NorthWest University Sokoto State",
+        "type": "univerity",
+        "university": "NorthWest University Sokoto State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2022"
+    },
+    {
+        "school": "Rayhaan University, Kebbi",
+        "type": "univerity",
+        "university": "Rayhaan University, Kebbi",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Muhammad Kamalud University Kwara",
+        "type": "univerity",
+        "university": "Muhammad Kamalud University Kwara",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Sam Maris University, Ondo",
+        "type": "univerity",
+        "university": "Sam Maris University, Ondo",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Aletheia University, Ago-Iwoye Ogun State",
+        "type": "univerity",
+        "university": "Aletheia University, Ago-Iwoye Ogun State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Lux Mundi University Umuahia, Abia State",
+        "type": "univerity",
+        "university": "Lux Mundi University Umuahia, Abia State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Maduka University, Ekwegbe, Enugu State",
+        "type": "univerity",
+        "university": "Maduka University, Ekwegbe, Enugu State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "PeaceLand University, Enugu State",
+        "type": "univerity",
+        "university": "PeaceLand University, Enugu State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Amadeus University, Amizi, Abia State",
+        "type": "univerity",
+        "university": "Amadeus University, Amizi, Abia State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Vision University, Ikogbo, Ogun State",
+        "type": "univerity",
+        "university": "Vision University, Ikogbo, Ogun State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Azman University, Kano State",
+        "type": "univerity",
+        "university": "Azman University, Kano State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Huda University, Gusau, Zamafara State",
+        "type": "univerity",
+        "university": "Huda University, Gusau, Zamafara State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Franco British International University, Kaduna State",
+        "type": "univerity",
+        "university": "Franco British International University, Kaduna State",
+        "vice chancellor": "Prof. Abdullahi Sabo Muhammad",
+        "website": "https://fbiu.edu.ng/",
+        "started": "2023"
+    },
+    {
+        "school": "Canadian University of Nigeria, Abuja",
+        "type": "univerity",
+        "university": "Canadian University of Nigeria, Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Gerar University of Medical Science Imope Ijebu, Ogun State.",
+        "type": "univerity",
+        "university": "Gerar University of Medical Science Imope Ijebu, Ogun State.",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "British Canadian University, Obufu Cross River State",
+        "type": "univerity",
+        "university": "British Canadian University, Obufu Cross River State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Hensard University, Toru-Orua, Sagbama, Bayelsa State",
+        "type": "univerity",
+        "university": "Hensard University, Toru-Orua, Sagbama, Bayelsa State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Amaj University, Kwali, Abuja",
+        "type": "univerity",
+        "university": "Amaj University, Kwali, Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Phoenix University, Agwada, Nasarawa State",
+        "type": "univerity",
+        "university": "Phoenix University, Agwada, Nasarawa State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Wigwe University, Isiokpo Rivers State",
+        "type": "univerity",
+        "university": "Wigwe University, Isiokpo Rivers State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Hillside University of Science and Technology, Okemisi, Ekiti State",
+        "type": "univerity",
+        "university": "Hillside University of Science and Technology, Okemisi, Ekiti State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "University on the Niger, Umunya, Anambra state",
+        "type": "univerity",
+        "university": "University on the Niger, Umunya, Anambra state",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Elrazi Medical University Yargaya University, Kano State",
+        "type": "univerity",
+        "university": "Elrazi Medical University Yargaya University, Kano State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Venite University, Iloro-Ekiti, Ekiti State",
+        "type": "univerity",
+        "university": "Venite University, Iloro-Ekiti, Ekiti State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Shanahan University Onitsha, Anambra State",
+        "type": "univerity",
+        "university": "Shanahan University Onitsha, Anambra State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "The Duke Medical University, Calabar, Cross River State",
+        "type": "univerity",
+        "university": "The Duke Medical University, Calabar, Cross River State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Mercy Medical University, Iwo, Ogun State",
+        "type": "univerity",
+        "university": "Mercy Medical University, Iwo, Ogun State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Cosmopolitan University Abuja",
+        "type": "univerity",
+        "university": "Cosmopolitan University Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Miva Open University, Abuja FCT",
+        "type": "univerity",
+        "university": "Miva Open University, Abuja FCT",
+        "vice chancellor": "Prof. Tayo Arulogun",
+        "website": "https://miva.university/",
+        "started": "2023"
+    },
+    {
+        "school": "Iconic Open University, Sokoto State.",
+        "type": "univerity",
+        "university": "Iconic Open University, Sokoto State.",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "West Midlands Open University, Ibadan, Oyo State",
+        "type": "univerity",
+        "university": "West Midlands Open University, Ibadan, Oyo State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Al-Muhibbah Open University, Abuja",
+        "type": "univerity",
+        "university": "Al-Muhibbah Open University, Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "El-Amin University, Minna, Niger State",
+        "type": "univerity",
+        "university": "El-Amin University, Minna, Niger State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "College of Petroleum and Energy Studies, Kaduna State",
+        "type": "univerity",
+        "university": "College of Petroleum and Energy Studies, Kaduna State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Jewel University, Gombe state",
+        "type": "univerity",
+        "university": "Jewel University, Gombe state",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Prime University, Kuje, FCT Abuja",
+        "type": "univerity",
+        "university": "Prime University, Kuje, FCT Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Nigerian University of Technology and Management, Apapa, Lagos State",
+        "type": "univerity",
+        "university": "Nigerian University of Technology and Management, Apapa, Lagos State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Al-Bayan University, Ankpa, Kogi State",
+        "type": "univerity",
+        "university": "Al-Bayan University, Ankpa, Kogi State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2023"
+    },
+    {
+        "school": "Lighthouse University, Evbobanosa, Edo State",
+        "type": "univerity",
+        "university": "Lighthouse University, Evbobanosa, Edo State",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2024"
+    },
+    {
+        "school": "African University of Economics, FCT, Abuja",
+        "type": "univerity",
+        "university": "African University of Economics, FCT, Abuja",
+        "vice chancellor": null,
+        "website": null,
+        "started": "2024"
+    },
+    {
+        "school": "Air Force Institute of Technology (AFIT), Airforce Base, Kaduna",
+        "type": "polytechnic",
+        "institute": "Air Force Institute of Technology (AFIT), Airforce Base, Kaduna"
+    },
+    {
+        "school": "Akanu Ibiam Federal Polytechnic, Unwana-Afikpo",
+        "type": "polytechnic",
+        "institute": "Akanu Ibiam Federal Polytechnic, Unwana-Afikpo"
+    },
+    {
+        "school": "Auchi Polytechnic, Auchi",
+        "type": "polytechnic",
+        "institute": "Auchi Polytechnic, Auchi"
+    },
+    {
+        "school": "Federal Polytechnic, Ado-Ekiti",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ado-Ekiti"
+    },
+    {
+        "school": "Federal Polytechnic, Ayede",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ayede"
+    },
+    {
+        "school": "Federal Polytechnic, Bali",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Bali"
+    },
+    {
+        "school": "Federal Polytechnic, Bauchi",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Bauchi"
+    },
+    {
+        "school": "Federal Polytechnic, Bida",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Bida"
+    },
+    {
+        "school": "Federal Polytechnic, Daura",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Daura"
+    },
+    {
+        "school": "Federal Polytechnic, Damaturu",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Damaturu"
+    },
+    {
+        "school": "Federal Polytechnic, Ede",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ede"
+    },
+    {
+        "school": "Federal Polytechnic, Ekowe",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ekowe"
+    },
+    {
+        "school": "Federal Polytechnic Idah",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic Idah"
+    },
+    {
+        "school": "Federal Polytechnic, Ilaro",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ilaro"
+    },
+    {
+        "school": "Federal Polytechnic Ile-Oluji",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic Ile-Oluji"
+    },
+    {
+        "school": "Federal Polytechnic Isuochi",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic Isuochi"
+    },
+    {
+        "school": "Federal Polytechnic Kabo",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic Kabo"
+    },
+    {
+        "school": "Federal Polytechnic Kaltungo",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic Kaltungo"
+    },
+    {
+        "school": "Federal Polytechnic Kaura-Namoda",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic Kaura-Namoda"
+    },
+    {
+        "school": "Federal Polytechnic, Monguno",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Monguno"
+    },
+    {
+        "school": "Federal Polytechnic, Mubi",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Mubi"
+    },
+    {
+        "school": "Federal Polytechnic, Nasarawa",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Nasarawa"
+    },
+    {
+        "school": "Federal Polytechnic, Neede",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Neede"
+    },
+    {
+        "school": "Federal Polytechnic, Nyak, Shendam",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Nyak, Shendam"
+    },
+    {
+        "school": "Federal Polytechnic of Oil And Gas, Bonny",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic of Oil And Gas, Bonny"
+    },
+    {
+        "school": "Federal Polytechnic, Offa",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Offa"
+    },
+    {
+        "school": "Federal Polytechnic, Ohodo",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ohodo"
+    },
+    {
+        "school": "Federal Polytechnic, Oko",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Oko"
+    },
+    {
+        "school": "Federal Polytechnic, Orogun",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Orogun"
+    },
+    {
+        "school": "Federal Polytechnic, Ukana",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ukana"
+    },
+    {
+        "school": "Federal Polytechnic, Ugep",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Ugep"
+    },
+    {
+        "school": "Federal Polytechnic, Wannune",
+        "type": "polytechnic",
+        "institute": "Federal Polytechnic, Wannune"
+    },
+    {
+        "school": "Hussaini Adamu Federal Polytechnic, Kazaure",
+        "type": "polytechnic",
+        "institute": "Hussaini Adamu Federal Polytechnic, Kazaure"
+    },
+    {
+        "school": "Kaduna Polytechnic, Kaduna",
+        "type": "polytechnic",
+        "institute": "Kaduna Polytechnic, Kaduna"
+    },
+    {
+        "school": "Maritime Academy of Nigeria, Oron",
+        "type": "polytechnic",
+        "institute": "Maritime Academy of Nigeria, Oron"
+    },
+    {
+        "school": "National Institute of Construction Technology and Management, Uromi",
+        "type": "polytechnic",
+        "institute": "National Institute of Construction Technology and Management, Uromi"
+    },
+    {
+        "school": "Nigerian Army College of Environmental Science and Technology, Makurdi",
+        "type": "polytechnic",
+        "institute": "Nigerian Army College of Environmental Science and Technology, Makurdi"
+    },
+    {
+        "school": "Nigerian College of Aviation Technology, Zaria, Kaduna State",
+        "type": "polytechnic",
+        "institute": "Nigerian College of Aviation Technology, Zaria, Kaduna State"
+    },
+    {
+        "school": "Petroleum Training Institute, Effurun Delta State",
+        "type": "polytechnic",
+        "institute": "Petroleum Training Institute, Effurun Delta State"
+    },
+    {
+        "school": "Waziri Umaru Federal Polytechnic, Birnin-Kebbi",
+        "type": "polytechnic",
+        "institute": "Waziri Umaru Federal Polytechnic, Birnin-Kebbi"
+    },
+    {
+        "school": "Yaba College of Technology, Yaba",
+        "type": "polytechnic",
+        "institute": "Yaba College of Technology, Yaba"
+    },
+    {
+        "school": "Abdu Gusau Polytechnic, Talata Mafara",
+        "type": "polytechnic",
+        "institute": "Abdu Gusau Polytechnic, Talata Mafara"
+    },
+    {
+        "school": "Abia State Polytechnic, Aba",
+        "type": "polytechnic",
+        "institute": "Abia State Polytechnic, Aba"
+    },
+    {
+        "school": "Abraham Adesanya Polytechnic, Ijebu-Igbo",
+        "type": "polytechnic",
+        "institute": "Abraham Adesanya Polytechnic, Ijebu-Igbo"
+    },
+    {
+        "school": "Abubakar Tatari Ali Polytechnic, Bauchi",
+        "type": "polytechnic",
+        "institute": "Abubakar Tatari Ali Polytechnic, Bauchi"
+    },
+    {
+        "school": "Adamawa State Polytechnic, Yola",
+        "type": "polytechnic",
+        "institute": "Adamawa State Polytechnic, Yola"
+    },
+    {
+        "school": "Adeseun Ogundoyin Polytechnic, Eruwa",
+        "type": "polytechnic",
+        "institute": "Adeseun Ogundoyin Polytechnic, Eruwa"
+    },
+    {
+        "school": "Akwa Ibom State College of Arts and Science, Nung Ukim",
+        "type": "polytechnic",
+        "institute": "Akwa Ibom State College of Arts and Science, Nung Ukim"
+    },
+    {
+        "school": "Akwa Ibom State Polytechnic, Ikot Osurua",
+        "type": "polytechnic",
+        "institute": "Akwa Ibom State Polytechnic, Ikot Osurua"
+    },
+    {
+        "school": "Anambra State Polytechnic, Mgbakwu",
+        "type": "polytechnic",
+        "institute": "Anambra State Polytechnic, Mgbakwu"
+    },
+    {
+        "school": "Bayelsa State Polytechnic, Aleibiri, Bayelsa",
+        "type": "polytechnic",
+        "institute": "Bayelsa State Polytechnic, Aleibiri, Bayelsa"
+    },
+    {
+        "school": "Benue State Polytechnic, Ugbokolo",
+        "type": "polytechnic",
+        "institute": "Benue State Polytechnic, Ugbokolo"
+    },
+    {
+        "school": "Binyaminu Usman Polytechnic, Hadejia",
+        "type": "polytechnic",
+        "institute": "Binyaminu Usman Polytechnic, Hadejia"
+    },
+    {
+        "school": "College of Agriculture, Science And Technology, Gujba",
+        "type": "polytechnic",
+        "institute": "College of Agriculture, Science And Technology, Gujba"
+    },
+    {
+        "school": "College of Administration, Management And Technology, Potiskum",
+        "type": "polytechnic",
+        "institute": "College of Administration, Management And Technology, Potiskum"
+    },
+    {
+        "school": "College of Agriculture, Science and Technology, Lafia",
+        "type": "polytechnic",
+        "institute": "College of Agriculture, Science and Technology, Lafia"
+    },
+    {
+        "school": "Cross River Institute of Technology And Management, Ugep",
+        "type": "polytechnic",
+        "institute": "Cross River Institute of Technology And Management, Ugep"
+    },
+    {
+        "school": "Delta State Polytechnic, Ogwashi-Uku",
+        "type": "polytechnic",
+        "institute": "Delta State Polytechnic, Ogwashi-Uku"
+    },
+    {
+        "school": "Delta State Polytechnic, Otefe-Oghara",
+        "type": "polytechnic",
+        "institute": "Delta State Polytechnic, Otefe-Oghara"
+    },
+    {
+        "school": "Delta State School of Marine Technology, Burutu",
+        "type": "polytechnic",
+        "institute": "Delta State School of Marine Technology, Burutu"
+    },
+    {
+        "school": "D.S. Adegbenro ICT Polytechnic, Itori-Ewekoro",
+        "type": "polytechnic",
+        "institute": "D.S. Adegbenro ICT Polytechnic, Itori-Ewekoro"
+    },
+    {
+        "school": "Edo State Polytechnic, Usen",
+        "type": "polytechnic",
+        "institute": "Edo State Polytechnic, Usen"
+    },
+    {
+        "school": "Ekiti State College of Agriculture And Technology, Isan-Ekiti",
+        "type": "polytechnic",
+        "institute": "Ekiti State College of Agriculture And Technology, Isan-Ekiti"
+    },
+    {
+        "school": "Enugu State Polytechnic, Iwollo",
+        "type": "polytechnic",
+        "institute": "Enugu State Polytechnic, Iwollo"
+    },
+    {
+        "school": "Gateway Polytechnic, Saapade",
+        "type": "polytechnic",
+        "institute": "Gateway Polytechnic, Saapade"
+    },
+    {
+        "school": "Gombe State Polytechnic, Bajoga",
+        "type": "polytechnic",
+        "institute": "Gombe State Polytechnic, Bajoga"
+    },
+    {
+        "school": "Hassan Usman Katsina Polytechnic, Katsina",
+        "type": "polytechnic",
+        "institute": "Hassan Usman Katsina Polytechnic, Katsina"
+    },
+    {
+        "school": "Imo State Polytechnic, Umuagwo",
+        "type": "polytechnic",
+        "institute": "Imo State Polytechnic, Umuagwo"
+    },
+    {
+        "school": "Institute of Management And Technology, Enugu",
+        "type": "polytechnic",
+        "institute": "Institute of Management And Technology, Enugu"
+    },
+    {
+        "school": "Isa Mustapha Agwai Polytechnic, Lafia",
+        "type": "polytechnic",
+        "institute": "Isa Mustapha Agwai Polytechnic, Lafia"
+    },
+    {
+        "school": "Jigawa State Polytechnic, Dutse",
+        "type": "polytechnic",
+        "institute": "Jigawa State Polytechnic, Dutse"
+    },
+    {
+        "school": "Kano State Polytechnic, Kano",
+        "type": "polytechnic",
+        "institute": "Kano State Polytechnic, Kano"
+    },
+    {
+        "school": "Katsina Institute of Technology And Management, Katsina",
+        "type": "polytechnic",
+        "institute": "Katsina Institute of Technology And Management, Katsina"
+    },
+    {
+        "school": "Kenule Beeson Saro-Wiwa Polytechnic, Bori",
+        "type": "polytechnic",
+        "institute": "Kenule Beeson Saro-Wiwa Polytechnic, Bori"
+    },
+    {
+        "school": "Kogi State Polytechnic, Lokoja",
+        "type": "polytechnic",
+        "institute": "Kogi State Polytechnic, Lokoja"
+    },
+    {
+        "school": "Kwara State Polytechnic, Ilorin",
+        "type": "polytechnic",
+        "institute": "Kwara State Polytechnic, Ilorin"
+    },
+    {
+        "school": "Mai-Idris Alooma Polytechnic, Geidam",
+        "type": "polytechnic",
+        "institute": "Mai-Idris Alooma Polytechnic, Geidam"
+    },
+    {
+        "school": "Moshood Abiola Polytechnic, Abeokuta",
+        "type": "polytechnic",
+        "institute": "Moshood Abiola Polytechnic, Abeokuta"
+    },
+    {
+        "school": "Niger State Polytechnic, Zungeru",
+        "type": "polytechnic",
+        "institute": "Niger State Polytechnic, Zungeru"
+    },
+    {
+        "school": "Nuhu Bamalli Polytechnic, Zaria",
+        "type": "polytechnic",
+        "institute": "Nuhu Bamalli Polytechnic, Zaria"
+    },
+    {
+        "school": "Ogun State Institute of Technology, Igbesa",
+        "type": "polytechnic",
+        "institute": "Ogun State Institute of Technology, Igbesa"
+    },
+    {
+        "school": "Ogun State Polytechnic, Ipokia",
+        "type": "polytechnic",
+        "institute": "Ogun State Polytechnic, Ipokia"
+    },
+    {
+        "school": "Osun State College of Technology, Esa-Oke",
+        "type": "polytechnic",
+        "institute": "Osun State College of Technology, Esa-Oke"
+    },
+    {
+        "school": "Osun State Polytechnic, Iree",
+        "type": "polytechnic",
+        "institute": "Osun State Polytechnic, Iree"
+    },
+    {
+        "school": "Oyo State College of Agriculture And Technology, Igbo-Ora",
+        "type": "polytechnic",
+        "institute": "Oyo State College of Agriculture And Technology, Igbo-Ora"
+    },
+    {
+        "school": "Plateau State Polytechnic, Barkin-Ladi",
+        "type": "polytechnic",
+        "institute": "Plateau State Polytechnic, Barkin-Ladi"
+    },
+    {
+        "school": "Port-Harcourt Polytechnic, Port-Harcourt",
+        "type": "polytechnic",
+        "institute": "Port-Harcourt Polytechnic, Port-Harcourt"
+    },
+    {
+        "school": "Ramat Polytechnic, Maiduguri",
+        "type": "polytechnic",
+        "institute": "Ramat Polytechnic, Maiduguri"
+    },
+    {
+        "school": "Rufus Giwa Polytechnic, Owo",
+        "type": "polytechnic",
+        "institute": "Rufus Giwa Polytechnic, Owo"
+    },
+    {
+        "school": "Taraba State Polytechnic, Suntai",
+        "type": "polytechnic",
+        "institute": "Taraba State Polytechnic, Suntai"
+    },
+    {
+        "school": "The Oke-Ogun Polytechnic, Saki",
+        "type": "polytechnic",
+        "institute": "The Oke-Ogun Polytechnic, Saki"
+    },
+    {
+        "school": "The Polytechnic, Ibadan",
+        "type": "polytechnic",
+        "institute": "The Polytechnic, Ibadan"
+    },
+    {
+        "school": "Umaru Ali Shinkafi Polytechnic, Sokoto",
+        "type": "polytechnic",
+        "institute": "Umaru Ali Shinkafi Polytechnic, Sokoto"
+    },
+    {
+        "school": "Ajayi Polytechnic, Ara-Ekiti",
+        "type": "polytechnic",
+        "institute": "Ajayi Polytechnic, Ara-Ekiti"
+    },
+    {
+        "school": "Al-Hikma Polytechnic, Karu",
+        "type": "polytechnic",
+        "institute": "Al-Hikma Polytechnic, Karu"
+    },
+    {
+        "school": "Allover Central Polytechnic, Sango-Ota",
+        "type": "polytechnic",
+        "institute": "Allover Central Polytechnic, Sango-Ota"
+    },
+    {
+        "school": "Ashi Polytechnic, Anyin",
+        "type": "polytechnic",
+        "institute": "Ashi Polytechnic, Anyin"
+    },
+    {
+        "school": "Bellarks Polytechnic, Kwale",
+        "type": "polytechnic",
+        "institute": "Bellarks Polytechnic, Kwale"
+    },
+    {
+        "school": "Best Solution Polytechnic, Akure",
+        "type": "polytechnic",
+        "institute": "Best Solution Polytechnic, Akure"
+    },
+    {
+        "school": "Bolmor Polytechnic, Ibadan",
+        "type": "polytechnic",
+        "institute": "Bolmor Polytechnic, Ibadan"
+    },
+    {
+        "school": "Brainfill Polytechnic, Ikot-Ekpene",
+        "type": "polytechnic",
+        "institute": "Brainfill Polytechnic, Ikot-Ekpene"
+    },
+    {
+        "school": "British Transatlantic Polytechnic, Akure",
+        "type": "polytechnic",
+        "institute": "British Transatlantic Polytechnic, Akure"
+    },
+    {
+        "school": "Calvary Polytechnic, Owo-Oyibu, Delta State",
+        "type": "polytechnic",
+        "institute": "Calvary Polytechnic, Owo-Oyibu, Delta State"
+    },
+    {
+        "school": "Citi Polytechnic, Abuja",
+        "type": "polytechnic",
+        "institute": "Citi Polytechnic, Abuja"
+    },
+    {
+        "school": "Coastal Polytechnic, Badagry",
+        "type": "polytechnic",
+        "institute": "Coastal Polytechnic, Badagry"
+    },
+    {
+        "school": "Covenant Polytechnic, Aba",
+        "type": "polytechnic",
+        "institute": "Covenant Polytechnic, Aba"
+    },
+    {
+        "school": "Crown Polytechnic, Ado-Ekiti",
+        "type": "polytechnic",
+        "institute": "Crown Polytechnic, Ado-Ekiti"
+    },
+    {
+        "school": "Distinct Polytechnic, Ekosin",
+        "type": "polytechnic",
+        "institute": "Distinct Polytechnic, Ekosin"
+    },
+    {
+        "school": "Dorben Polytechnic Bwari",
+        "type": "polytechnic",
+        "institute": "Dorben Polytechnic Bwari"
+    },
+    {
+        "school": "Eastern Polytechnic, Port Harcourt",
+        "type": "polytechnic",
+        "institute": "Eastern Polytechnic, Port Harcourt"
+    },
+    {
+        "school": "Ekiti City Polytechnic Omuo-Ekiti",
+        "type": "polytechnic",
+        "institute": "Ekiti City Polytechnic Omuo-Ekiti"
+    },
+    {
+        "school": "Enville Institute of Management and Technology, Ikeja",
+        "type": "polytechnic",
+        "institute": "Enville Institute of Management and Technology, Ikeja"
+    },
+    {
+        "school": "Fidei Polytechnic, Gboko",
+        "type": "polytechnic",
+        "institute": "Fidei Polytechnic, Gboko"
+    },
+    {
+        "school": "Foundation Polytechnic, Ikot Ekpene",
+        "type": "polytechnic",
+        "institute": "Foundation Polytechnic, Ikot Ekpene"
+    },
+    {
+        "school": "Gboko Polytechnic, Gboko",
+        "type": "polytechnic",
+        "institute": "Gboko Polytechnic, Gboko"
+    },
+    {
+        "school": "Global Polytechnic, Benin",
+        "type": "polytechnic",
+        "institute": "Global Polytechnic, Benin"
+    },
+    {
+        "school": "Gloryland Polytechnic, Anka",
+        "type": "polytechnic",
+        "institute": "Gloryland Polytechnic, Anka"
+    },
+    {
+        "school": "Grace Polytechnic, Surulere",
+        "type": "polytechnic",
+        "institute": "Grace Polytechnic, Surulere"
+    },
+    {
+        "school": "Graceland Polytechnic, Offa",
+        "type": "polytechnic",
+        "institute": "Graceland Polytechnic, Offa"
+    },
+    {
+        "school": "Grundtvig Polytechnic, Oba",
+        "type": "polytechnic",
+        "institute": "Grundtvig Polytechnic, Oba"
+    },
+    {
+        "school": "Harvard Polytechnic, Ilorin",
+        "type": "polytechnic",
+        "institute": "Harvard Polytechnic, Ilorin"
+    },
+    {
+        "school": "Harry Pass Polytechnic, Gboko",
+        "type": "polytechnic",
+        "institute": "Harry Pass Polytechnic, Gboko"
+    },
+    {
+        "school": "Heritage Polytechnic, Eket",
+        "type": "polytechnic",
+        "institute": "Heritage Polytechnic, Eket"
+    },
+    {
+        "school": "Hope Polytechnic, Ikono",
+        "type": "polytechnic",
+        "institute": "Hope Polytechnic, Ikono"
+    },
+    {
+        "school": "Ibadan City Polytechnic, Ibadan",
+        "type": "polytechnic",
+        "institute": "Ibadan City Polytechnic, Ibadan"
+    },
+    {
+        "school": "Ibom Metropolitan Polytechnic, Uyo",
+        "type": "polytechnic",
+        "institute": "Ibom Metropolitan Polytechnic, Uyo"
+    },
+    {
+        "school": "1-Con Universal Polytechnic, Osogbo",
+        "type": "polytechnic",
+        "institute": "1-Con Universal Polytechnic, Osogbo"
+    },
+    {
+        "school": "Igbajo Polytechnic, Igbajo",
+        "type": "polytechnic",
+        "institute": "Igbajo Polytechnic, Igbajo"
+    },
+    {
+        "school": "Iheachukwu Madubuike Institute of Technology, Isuochi",
+        "type": "polytechnic",
+        "institute": "Iheachukwu Madubuike Institute of Technology, Isuochi"
+    },
+    {
+        "school": "Inspire Polytechnic, Lagos",
+        "type": "polytechnic",
+        "institute": "Inspire Polytechnic, Lagos"
+    },
+    {
+        "school": "Interlink Polytechnic, Ijebu-Jesa",
+        "type": "polytechnic",
+        "institute": "Interlink Polytechnic, Ijebu-Jesa"
+    },
+    {
+        "school": "Iwo City Polytechnic, Iwo",
+        "type": "polytechnic",
+        "institute": "Iwo City Polytechnic, Iwo"
+    },
+    {
+        "school": "Kalac Crystal Polytechnic, Lekki",
+        "type": "polytechnic",
+        "institute": "Kalac Crystal Polytechnic, Lekki"
+    },
+    {
+        "school": "Kings Polytechnic, Ubiaja",
+        "type": "polytechnic",
+        "institute": "Kings Polytechnic, Ubiaja"
+    },
+    {
+        "school": "Lagos City Polytechnic, Ikeja",
+        "type": "polytechnic",
+        "institute": "Lagos City Polytechnic, Ikeja"
+    },
+    {
+        "school": "Landmark Polytechnic, Ayetoro",
+        "type": "polytechnic",
+        "institute": "Landmark Polytechnic, Ayetoro"
+    },
+    {
+        "school": "Lens Polytechnic, Offa",
+        "type": "polytechnic",
+        "institute": "Lens Polytechnic, Offa"
+    },
+    {
+        "school": "Lighthouse Polytechnic, Evbuobanosa",
+        "type": "polytechnic",
+        "institute": "Lighthouse Polytechnic, Evbuobanosa"
+    },
+    {
+        "school": "Loam Polytechnic, Ikono",
+        "type": "polytechnic",
+        "institute": "Loam Polytechnic, Ikono"
+    },
+    {
+        "school": "Marist Polytechnic, Emene",
+        "type": "polytechnic",
+        "institute": "Marist Polytechnic, Emene"
+    },
+    {
+        "school": "Mater Dei Polytechnic, Egwuoba",
+        "type": "polytechnic",
+        "institute": "Mater Dei Polytechnic, Egwuoba"
+    },
+    {
+        "school": "NACABS Polytechnic, Akwanga",
+        "type": "polytechnic",
+        "institute": "NACABS Polytechnic, Akwanga"
+    },
+    {
+        "school": "Newland Polytechnic, Ilorin",
+        "type": "polytechnic",
+        "institute": "Newland Polytechnic, Ilorin"
+    },
+    {
+        "school": "NOGAK Polytechnic, Ikom",
+        "type": "polytechnic",
+        "institute": "NOGAK Polytechnic, Ikom"
+    },
+    {
+        "school": "Novelty Polytechnic, Kishi",
+        "type": "polytechnic",
+        "institute": "Novelty Polytechnic, Kishi"
+    },
+    {
+        "school": "Oduduwa Polytechnic, Idimu",
+        "type": "polytechnic",
+        "institute": "Oduduwa Polytechnic, Idimu"
+    },
+    {
+        "school": "Our Saviour Institute of Science, Agriculture and Technology, Enugu",
+        "type": "polytechnic",
+        "institute": "Our Saviour Institute of Science, Agriculture and Technology, Enugu"
+    },
+    {
+        "school": "Paramount Polytechnic, Ejigbo",
+        "type": "polytechnic",
+        "institute": "Paramount Polytechnic, Ejigbo"
+    },
+    {
+        "school": "Prime Polytechnic, Jida Bassa, Ajaokuta",
+        "type": "polytechnic",
+        "institute": "Prime Polytechnic, Jida Bassa, Ajaokuta"
+    },
+    {
+        "school": "Redeemers College of Technology And Management, Mowe",
+        "type": "polytechnic",
+        "institute": "Redeemers College of Technology And Management, Mowe"
+    },
+    {
+        "school": "Ronik Polytechnic, Ejigbo, Ikeja",
+        "type": "polytechnic",
+        "institute": "Ronik Polytechnic, Ejigbo, Ikeja"
+    },
+    {
+        "school": "Saf Polytechnic, Iseyin",
+        "type": "polytechnic",
+        "institute": "Saf Polytechnic, Iseyin"
+    },
+    {
+        "school": "Shaka Polytechnic, Benin City",
+        "type": "polytechnic",
+        "institute": "Shaka Polytechnic, Benin City"
+    },
+    {
+        "school": "Southern Atlantic Polytechnic, Uyo",
+        "type": "polytechnic",
+        "institute": "Southern Atlantic Polytechnic, Uyo"
+    },
+    {
+        "school": "Speedway Polytechnic, Osoba",
+        "type": "polytechnic",
+        "institute": "Speedway Polytechnic, Osoba"
+    },
+    {
+        "school": "St. Mary Polytechnic, Kwamba, Suleja",
+        "type": "polytechnic",
+        "institute": "St. Mary Polytechnic, Kwamba, Suleja"
+    },
+    {
+        "school": "Stars Polytechnic, Ota",
+        "type": "polytechnic",
+        "institute": "Stars Polytechnic, Ota"
+    },
+    {
+        "school": "Sure Foundation Polytechnic, Ikot-Akai",
+        "type": "polytechnic",
+        "institute": "Sure Foundation Polytechnic, Ikot-Akai"
+    },
+    {
+        "school": "Teedek Polytechnic, Ilogbo-Ekiti",
+        "type": "polytechnic",
+        "institute": "Teedek Polytechnic, Ilogbo-Ekiti"
+    },
+    {
+        "school": "Temple Gate Polytechnic, Aba",
+        "type": "polytechnic",
+        "institute": "Temple Gate Polytechnic, Aba"
+    },
+    {
+        "school": "The Polytechnic, Adoka",
+        "type": "polytechnic",
+        "institute": "The Polytechnic, Adoka"
+    },
+    {
+        "school": "The Polytechnic Aran-Orin",
+        "type": "polytechnic",
+        "institute": "The Polytechnic Aran-Orin"
+    },
+    {
+        "school": "The Polytechnic, Igbo-Owu",
+        "type": "polytechnic",
+        "institute": "The Polytechnic, Igbo-Owu"
+    },
+    {
+        "school": "The Polytechnic, Ile-Ife",
+        "type": "polytechnic",
+        "institute": "The Polytechnic, Ile-Ife"
+    },
+    {
+        "school": "The Polytechnic, Iresi",
+        "type": "polytechnic",
+        "institute": "The Polytechnic, Iresi"
+    },
+    {
+        "school": "The Polytechnic, Omuo-Ekiti",
+        "type": "polytechnic",
+        "institute": "The Polytechnic, Omuo-Ekiti"
+    },
+    {
+        "school": "Timeon Kairos Polytechnic, Lagos",
+        "type": "polytechnic",
+        "institute": "Timeon Kairos Polytechnic, Lagos"
+    },
+    {
+        "school": "Tower Polytechnic, Ibadan",
+        "type": "polytechnic",
+        "institute": "Tower Polytechnic, Ibadan"
+    },
+    {
+        "school": "Trinity Polytechnic, Uyo",
+        "type": "polytechnic",
+        "institute": "Trinity Polytechnic, Uyo"
+    },
+    {
+        "school": "Uma Ukpai Polytechnic, Ohafia",
+        "type": "polytechnic",
+        "institute": "Uma Ukpai Polytechnic, Ohafia"
+    },
+    {
+        "school": "Ultra Excellence Polytechnic, Uyo",
+        "type": "polytechnic",
+        "institute": "Ultra Excellence Polytechnic, Uyo"
+    },
+    {
+        "school": "United Polytechnic, Jos",
+        "type": "polytechnic",
+        "institute": "United Polytechnic, Jos"
+    },
+    {
+        "school": "Uyo City Polytechnic, Uyo",
+        "type": "polytechnic",
+        "institute": "Uyo City Polytechnic, Uyo"
+    },
+    {
+        "school": "Valley View Polytechnic, Ohafia",
+        "type": "polytechnic",
+        "institute": "Valley View Polytechnic, Ohafia"
+    },
+    {
+        "school": "Villanova Polytechnic, Imesi-lle",
+        "type": "polytechnic",
+        "institute": "Villanova Polytechnic, Imesi-lle"
+    },
+    {
+        "school": "Westland Polytechnic, Ilobu, Osun",
+        "type": "polytechnic",
+        "institute": "Westland Polytechnic, Ilobu, Osun"
+    },
+    {
+        "school": "Wolex Polytechnic, Iwo, Osun State",
+        "type": "polytechnic",
+        "institute": "Wolex Polytechnic, Iwo, Osun State"
+    }
+]
